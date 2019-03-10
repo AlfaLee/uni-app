@@ -1,0 +1,38 @@
+
+.play_play{
+    width: 80rpx;
+    height: 80rpx;
+    /* margin: 0 100rpx; */
+}
+.play_back{
+    width: 66rpx;
+    height: 66rpx;
+}
+.play_box{
+    padding: 40rpx 0; 
+    width: 410rpx;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.back_button{
+    position: absolute;
+    left: 20rpx;
+    width: 27rpx;
+    height: 24rpx;
+    bottom:90rpx;
+    line-height: 1;
+    font-size: 30rpx;
+    padding: 10rpx;
+}
+.searchTrajectory {
+   position: relative;
+   top: -30rpx;
+}
+

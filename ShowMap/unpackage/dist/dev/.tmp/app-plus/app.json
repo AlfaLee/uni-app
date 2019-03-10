@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/video/video",
+    "pages/scroll-view/scroll-view",
+    "pages/map/indexmap",
+    "pages/trackmap/webmap"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Uni-Map",
+    "navigationBarBackgroundColor": "skyblue",
+    "backgroundColor": "skyblue"
+  },
+  "usingComponents": {},
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "ShowMap"
+}
