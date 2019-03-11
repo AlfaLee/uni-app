@@ -75,7 +75,6 @@
                     }
                 },
 				{
-                    //title:'我在哪，我在哪',
 					id:1,
                     latitude: '',
                     longitude: '',
@@ -152,7 +151,7 @@
 				],
                 polyline:[
                     {
-                    'points':[],//{latitude: 34.780254,longtitude: 113.699559}, {longtitude: 113.701855,latitude: 34.779778}
+                    'points':[],
                      color:'#00BFFF',
                      width:5
 					}

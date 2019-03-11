@@ -78,13 +78,23 @@
     marker.on('moving', function (e) {
         passedPolyline.setPath(e.passedPath);
     });
+	var tempId = getUrlParam('id');
+	console.log(tempId);
 
     map.setFitView();
 	
-	function myLoad(){
-		console.log("123");
-		console.log();
+	function getUrlParam(name){
+		var reg = new RegExp("(^|&)"+name+"=([^&]*)(&|$)");
+		var r = window.location.search.substr(1).match(reg);
+		if(r!=null){
+			return unescape(r[2]);			
+		}else{
+			return null;
+		}
 	}
+	
+	
+	
     function startAnimation () {
         marker.moveAlong(lineArr, 200);
     }
