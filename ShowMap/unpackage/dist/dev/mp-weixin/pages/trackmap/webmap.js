@@ -54,12 +54,18 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 
 
+
+
+
+
+
 {
   data: function data() {
     var currentDate = this.getDate({
       format: true });
 
     return {
+      isShow: false,
       title: 'picker',
       array: ['13222', '4566', '78999', '4564215'],
       index: 0,
@@ -84,64 +90,7 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
       console.log('picker发送选择改变，携带值为：' + e.target.value);
       this.index = e.target.value;
     },
-    bindMultiPickerColumnChange: function bindMultiPickerColumnChange(e) {
-      console.log('修改的列为：' + e.detail.column + '，值为：' + e.detail.value);
-      this.multiIndex[e.detail.column] = e.detail.value;
-      switch (e.detail.column) {
-        case 0:
-          switch (this.multiIndex[0]) {
-            case 0:
-              this.multiArray[1] = ['扁性动物', '线形动物', '环节动物', '软体动物', '节肢动物'];
-              this.multiArray[2] = ['猪肉绦虫', '吸血虫'];
-              break;
-            case 1:
-              this.multiArray[1] = ['鱼', '两栖动物', '爬行动物'];
-              this.multiArray[2] = ['鲫鱼', '带鱼'];
-              break;}
 
-          this.multiIndex[1] = 0;
-          this.multiIndex[2] = 0;
-          break;
-        case 1:
-          switch (this.multiIndex[0]) {
-            case 0:
-              switch (this.multiIndex[1]) {
-                case 0:
-                  this.multiArray[2] = ['猪肉绦虫', '吸血虫'];
-                  break;
-                case 1:
-                  this.multiArray[2] = ['蛔虫'];
-                  break;
-                case 2:
-                  this.multiArray[2] = ['蚂蚁', '蚂蟥'];
-                  break;
-                case 3:
-                  this.multiArray[2] = ['河蚌', '蜗牛', '蛞蝓'];
-                  break;
-                case 4:
-                  this.multiArray[2] = ['昆虫', '甲壳动物', '蛛形动物', '多足动物'];
-                  break;}
-
-              break;
-            case 1:
-              switch (this.multiIndex[1]) {
-                case 0:
-                  this.multiArray[2] = ['鲫鱼', '带鱼'];
-                  break;
-                case 1:
-                  this.multiArray[2] = ['青蛙', '娃娃鱼'];
-                  break;
-                case 2:
-                  this.multiArray[2] = ['蜥蜴', '龟', '壁虎'];
-                  break;}
-
-              break;}
-
-          this.multiIndex[2] = 0;
-          break;}
-
-      this.$forceUpdate();
-    },
     bindDateChange: function bindDateChange(e) {
       this.date = e.target.value;
     },
@@ -164,6 +113,9 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
       day = day > 9 ? day : '0' + day;
 
       return "".concat(year, "-").concat(month, "-").concat(day);
+    },
+    setConfirm: function setConfirm() {
+      isShow = true;
     } } };exports.default = _default;
 
 /***/ }),
@@ -190,7 +142,7 @@ var render = function() {
       _c("view", { staticClass: "uni-list" }, [
         _c("view", { staticClass: "uni-list-cell" }, [
           _c("view", { staticClass: "uni-list-cell-left" }, [
-            _vm._v("车辆终端")
+            _vm._v("车辆终端:")
           ]),
           _c(
             "view",
@@ -220,7 +172,7 @@ var render = function() {
       _c("view", { staticClass: "uni-list" }, [
         _c("view", { staticClass: "uni-list-cell" }, [
           _c("view", { staticClass: "uni-list-cell-left" }, [
-            _vm._v("开始时间")
+            _vm._v("开始时间:")
           ]),
           _c(
             "view",
@@ -252,7 +204,7 @@ var render = function() {
       _c("view", { staticClass: "uni-list" }, [
         _c("view", { staticClass: "uni-list-cell" }, [
           _c("view", { staticClass: "uni-list-cell-left" }, [
-            _vm._v("结束时间")
+            _vm._v("结束时间:")
           ]),
           _c(
             "view",
@@ -280,7 +232,25 @@ var render = function() {
             1
           )
         ])
-      ])
+      ]),
+      _c(
+        "view",
+        { staticClass: "button-sp-area" },
+        [
+          _c(
+            "button",
+            {
+              attrs: { type: "primary", plain: "true", eventid: "9ead1fc0-3" },
+              on: { click: _vm.setConfirm }
+            },
+            [_vm._v("确定")]
+          )
+        ],
+        1
+      ),
+      false
+        ? undefined
+        : _vm._e()
     ],
     1
   )
