@@ -277,11 +277,11 @@
 								that.markers[2].latitude = that.traceData[0][1];
 								that.markers[3].longitude = that.traceData[that.traceData.length-1][0];
 								that.markers[3].latitude = that.traceData[that.traceData.length-1][1];
-								// #ifdef APP-PLUS
+								
 								uni.navigateTo({
-									url:'../trackmap/webmap?id=10'
+									url:'../trackmap/webmap'
 								});
-								// #endif
+								
 							}
 						},
 						fail: function (res) {

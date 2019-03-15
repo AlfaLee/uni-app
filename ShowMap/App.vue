@@ -1,4 +1,5 @@
 <script>
+	import './common/uni.css';
 	export default {
 		onLaunch: function () {
 			console.log('App Launch')
