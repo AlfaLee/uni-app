@@ -4,14 +4,12 @@
     "pages/video/video",
     "pages/scroll-view/scroll-view",
     "pages/map/indexmap",
-    "pages/trackmap/webmap"
+    "pages/trackmap/webmap",
+    "pages/H5Map/h5map"
   ],
   "subPackages": [],
   "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "Uni-Map",
-    "navigationBarBackgroundColor": "skyblue",
-    "backgroundColor": "skyblue"
+    "navigationStyle": "default"
   },
   "usingComponents": {},
   "splashscreen": {

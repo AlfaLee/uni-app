@@ -1,6 +1,5 @@
 
-#traceControl{
-		
+#traceControl{		
 		right: 50%;
 		bottom: 50%;
 }

@@ -20,16 +20,34 @@
 				
             </view>
         </view>
+		<view>
+			<uni-drawer :visible="true" mode="right">
+				<view style="padding:30upx;">
+					<view class="uni-title">抽屉式导航</view>
+					<view class="uni-list uni-common-mt">
+						<view class="uni-list-cell" hover-class="uni-list-cell-hover">
+						<view class="uni-list-cell-navigate uni-navigate-right">Item1</view>
+					</view>
+					<view class="uni-list-cell uni-list-cell-last" hover-class="uni-list-cell-hover">
+						<view class="uni-list-cell-navigate uni-navigate-right">Item2</view>
+					</view>
+				</view>
+			</view>
+			</uni-drawer>
+		</view>
     </view>
 </template>
 <script>
 	import amap from "../../components/amap-wx.js";	
-	import Vue from 'vue'
+	import Vue from 'vue';
+	import uniDrawer from "../../components/uni-drawer.vue";
 	
 	import VueAMap from "vue-amap";
     export default {
         data() {
             return {	
+				showRigth: false,
+				showLeft: false,
 				terminalID:1,
 				destinationPoint:[],
 				pointsIndex:0,
@@ -227,7 +245,7 @@
 				//底部弹框
 				if(e.mp.controlId==3){
 					uni.showActionSheet({
-						itemList: ['echarts', 'vedio', 'scroll','轨迹回放'],
+						itemList: ['echarts', 'vedio', 'scroll','轨迹回放','H5+AppMap'],
 						success: function (res) {
 							if(res.tapIndex==0){
 								uni.navigateTo({
@@ -282,6 +300,11 @@
 									url:'../trackmap/webmap'
 								});
 								
+							}
+							if(res.tapIndex==4){
+								uni.navigateTo({
+									url:'../H5Map/h5map'
+								})
 							}
 						},
 						fail: function (res) {
@@ -458,12 +481,11 @@
 				}
 			},
         },
-		
+		components: {uniDrawer}
 	}
 </script>
 <style>
-	#traceControl{
-		
+	#traceControl{		
 		right: 50%;
 		bottom: 50%;
 	}

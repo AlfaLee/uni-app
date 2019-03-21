@@ -1,3 +1,14 @@
 {
-  "navigationBarTitleText": "uni-app"
+  "navigationBarTitleText": "uni-app",
+  "navigationBarBackgroundColor": "#1E90FF",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/iconfont.ttf",
+        "fontSize": "22px",
+        "redDot": true
+      }
+    ]
+  }
 }

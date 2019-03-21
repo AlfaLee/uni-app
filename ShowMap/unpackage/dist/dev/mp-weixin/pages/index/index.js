@@ -237,7 +237,7 @@ var _vueAmap = _interopRequireDefault(__webpack_require__(/*! vue-amap */ "E:\\u
       //底部弹框
       if (e.mp.controlId == 3) {
         uni.showActionSheet({
-          itemList: ['echarts', 'vedio', 'scroll', '轨迹回放'],
+          itemList: ['echarts', 'vedio', 'scroll', '轨迹回放', 'H5+AppMap'],
           success: function success(res) {
             if (res.tapIndex == 0) {
               uni.navigateTo({
@@ -291,6 +291,11 @@ var _vueAmap = _interopRequireDefault(__webpack_require__(/*! vue-amap */ "E:\\u
               uni.navigateTo({
                 url: '../trackmap/webmap' });
 
+
+            }
+            if (res.tapIndex == 4) {
+              uni.navigateTo({
+                url: '../H5Map/h5map' });
 
             }
           },

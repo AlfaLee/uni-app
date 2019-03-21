@@ -27,6 +27,7 @@
  <div id="app">
 	 
 </div>
+
 <div id="container"></div>
 <div class="input-card">
     <h4>轨迹回放控制</h4>
@@ -37,6 +38,8 @@
     <div class="input-item">
         <input type="button" class="btn" value="继续动画" id="resume" onclick="resumeAnimation()"/>
         <input type="button" class="btn" value="停止动画" id="stop" onclick="stopAnimation()"/>
+		
+		
     </div>
 </div>
 <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.13&key=您申请的key值"></script>
@@ -68,7 +71,18 @@
         autoRotation: true,
         angle:-90,
     });
-
+	function test(){
+		
+			var gps = [116.3, 39.9];
+			AMap.convertFrom(gps, 'gps', function (status, result) {
+				console.log("123");
+				console.log(result);
+			if (result.info === 'ok') {
+		    var lnglats = result.locations; // Array.<LngLat>
+			
+		  }
+		});
+	}
     // 绘制轨迹
     var polyline = new AMap.Polyline({
         map: map,

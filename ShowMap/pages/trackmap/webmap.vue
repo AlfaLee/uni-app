@@ -42,7 +42,7 @@
 		<view class="button-sp-area">
 			<button type="primary" plain="true" @click="setConfirm">确定</button>			
 		</view>
-		<view v-if="false">
+		<view v-if="isShow">
 			<web-view src="../../hybrid/html/local.html"></web-view>
 		</view>
 	</view>
@@ -105,7 +105,8 @@
 				return `${year}-${month}-${day}`;
 			},
 			setConfirm:function(){
-				isShow = true;
+				this.isShow = true;
+				console.log(this.isShow);
 			}
 		}
 	}

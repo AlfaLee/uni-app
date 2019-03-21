@@ -1058,13 +1058,47 @@ function gz$gwx_1(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_1)return __WXML_GLOBAL__.ops_cached.$gwx_1
 __WXML_GLOBAL__.ops_cached.$gwx_1=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'5ae1b94f-default-5ae1b94f-1'])
+Z([3,'2c081889-default-2c081889-0'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_1);return __WXML_GLOBAL__.ops_cached.$gwx_1
 }
 function gz$gwx_2(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_2)return __WXML_GLOBAL__.ops_cached.$gwx_2
 __WXML_GLOBAL__.ops_cached.$gwx_2=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'f97aa768'])
+Z([[7],[3,'catchtouchmove']])
+Z([a,[3,'_view f97aa768 uni-drawer '],[[4],[[5],[[5],[[2,'?:'],[[7],[3,'visible']],[1,'uni-drawer-visible'],[1,'']]],[[2,'?:'],[[7],[3,'rightMode']],[1,'uni-drawer-right'],[1,'']]]]])
+Z([3,'default'])
+Z([[7],[3,'showMask']])
+Z([[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[7],[3,'$k']]]]],[[8],'$root',[[7],[3,'$root']]]])
+Z([[2,'||'],[[7],[3,'$slotdefault']],[1,'default']])
+})(__WXML_GLOBAL__.ops_cached.$gwx_2);return __WXML_GLOBAL__.ops_cached.$gwx_2
+}
+function gz$gwx_3(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_3)return __WXML_GLOBAL__.ops_cached.$gwx_3
+__WXML_GLOBAL__.ops_cached.$gwx_3=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'2c081889'])
+Z([[9],[[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'2c081889-0']]]]],[[8],'$root',[[7],[3,'$root']]]],[[8],'$slotdefault',[1,'2c081889-default-2c081889-0']]])
+Z([3,'f97aa768'])
+Z([3,'right'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_3);return __WXML_GLOBAL__.ops_cached.$gwx_3
+}
+function gz$gwx_4(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_4)return __WXML_GLOBAL__.ops_cached.$gwx_4
+__WXML_GLOBAL__.ops_cached.$gwx_4=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'2c081889'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_4);return __WXML_GLOBAL__.ops_cached.$gwx_4
+}
+function gz$gwx_5(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_5)return __WXML_GLOBAL__.ops_cached.$gwx_5
+__WXML_GLOBAL__.ops_cached.$gwx_5=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
 Z([3,'5ae1b94f'])
+Z([3,'_view 5ae1b94f'])
 Z([3,'handleProxy'])
 Z([3,'_map 5ae1b94f'])
 Z([[7],[3,'controls']])
@@ -1078,108 +1112,158 @@ Z([[7],[3,'polyline']])
 Z([[7],[3,'scale']])
 Z([3,'width:sWidth;height:sHeight;'])
 Z([[7],[3,'traceFlag']])
-})(__WXML_GLOBAL__.ops_cached.$gwx_2);return __WXML_GLOBAL__.ops_cached.$gwx_2
-}
-function gz$gwx_3(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_3)return __WXML_GLOBAL__.ops_cached.$gwx_3
-__WXML_GLOBAL__.ops_cached.$gwx_3=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'5ae1b94f'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_3);return __WXML_GLOBAL__.ops_cached.$gwx_3
-}
-function gz$gwx_4(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_4)return __WXML_GLOBAL__.ops_cached.$gwx_4
-__WXML_GLOBAL__.ops_cached.$gwx_4=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'ba0c243a'])
-Z([3,'_view ba0c243a'])
-Z([3,'width: 100%; height: 12%;position:relative'])
-Z([[2,'!'],[[7],[3,'isPlay']]])
-Z([[7],[3,'isPlay']])
-})(__WXML_GLOBAL__.ops_cached.$gwx_4);return __WXML_GLOBAL__.ops_cached.$gwx_4
-}
-function gz$gwx_5(){
-if( __WXML_GLOBAL__.ops_cached.$gwx_5)return __WXML_GLOBAL__.ops_cached.$gwx_5
-__WXML_GLOBAL__.ops_cached.$gwx_5=[];
-(function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'ba0c243a'])
+Z([[9],[[9],[[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[10],[[6],[[7],[3,'$root']],[[2,'+'],[[7],[3,'$kk']],[1,'5ae1b94f-1']]]]],[[8],'$root',[[7],[3,'$root']]]],[[8],'$slotdefault',[1,'5ae1b94f-default-5ae1b94f-1']]])
+Z([3,'f97aa768'])
+Z([3,'right'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_5);return __WXML_GLOBAL__.ops_cached.$gwx_5
 }
 function gz$gwx_6(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_6)return __WXML_GLOBAL__.ops_cached.$gwx_6
 __WXML_GLOBAL__.ops_cached.$gwx_6=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'42a94935'])
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'5ae1b94f'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_6);return __WXML_GLOBAL__.ops_cached.$gwx_6
 }
 function gz$gwx_7(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_7)return __WXML_GLOBAL__.ops_cached.$gwx_7
 __WXML_GLOBAL__.ops_cached.$gwx_7=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'42a94935'])
+Z([3,'ba0c243a'])
+Z([3,'_view ba0c243a'])
+Z([3,'width: 100%; height: 12%;position:relative'])
+Z([[2,'!'],[[7],[3,'isPlay']]])
+Z([[7],[3,'isPlay']])
 })(__WXML_GLOBAL__.ops_cached.$gwx_7);return __WXML_GLOBAL__.ops_cached.$gwx_7
 }
 function gz$gwx_8(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_8)return __WXML_GLOBAL__.ops_cached.$gwx_8
 __WXML_GLOBAL__.ops_cached.$gwx_8=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'9ead1fc0'])
-Z([1,false])
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'ba0c243a'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_8);return __WXML_GLOBAL__.ops_cached.$gwx_8
 }
 function gz$gwx_9(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_9)return __WXML_GLOBAL__.ops_cached.$gwx_9
 __WXML_GLOBAL__.ops_cached.$gwx_9=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
-Z([3,'9ead1fc0'])
+Z([3,'42a94935'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_9);return __WXML_GLOBAL__.ops_cached.$gwx_9
 }
 function gz$gwx_10(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_10)return __WXML_GLOBAL__.ops_cached.$gwx_10
 __WXML_GLOBAL__.ops_cached.$gwx_10=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
-Z([3,'49ac6de1'])
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'42a94935'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_10);return __WXML_GLOBAL__.ops_cached.$gwx_10
 }
 function gz$gwx_11(){
 if( __WXML_GLOBAL__.ops_cached.$gwx_11)return __WXML_GLOBAL__.ops_cached.$gwx_11
 __WXML_GLOBAL__.ops_cached.$gwx_11=[];
 (function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'9ead1fc0'])
+Z([[7],[3,'isShow']])
+})(__WXML_GLOBAL__.ops_cached.$gwx_11);return __WXML_GLOBAL__.ops_cached.$gwx_11
+}
+function gz$gwx_12(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_12)return __WXML_GLOBAL__.ops_cached.$gwx_12
+__WXML_GLOBAL__.ops_cached.$gwx_12=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
+Z([3,'9ead1fc0'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_12);return __WXML_GLOBAL__.ops_cached.$gwx_12
+}
+function gz$gwx_13(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_13)return __WXML_GLOBAL__.ops_cached.$gwx_13
+__WXML_GLOBAL__.ops_cached.$gwx_13=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'49ac6de1'])
+})(__WXML_GLOBAL__.ops_cached.$gwx_13);return __WXML_GLOBAL__.ops_cached.$gwx_13
+}
+function gz$gwx_14(){
+if( __WXML_GLOBAL__.ops_cached.$gwx_14)return __WXML_GLOBAL__.ops_cached.$gwx_14
+__WXML_GLOBAL__.ops_cached.$gwx_14=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
 Z([[9],[[10],[[6],[[7],[3,'$root']],[1,'0']]],[[8],'$root',[[7],[3,'$root']]]])
 Z([3,'49ac6de1'])
-})(__WXML_GLOBAL__.ops_cached.$gwx_11);return __WXML_GLOBAL__.ops_cached.$gwx_11
+})(__WXML_GLOBAL__.ops_cached.$gwx_14);return __WXML_GLOBAL__.ops_cached.$gwx_14
 }
 __WXML_GLOBAL__.ops_set.$gwx=z;
 __WXML_GLOBAL__.ops_init.$gwx=true;
 var nv_require=function(){var nnm={};var nom={};return function(n){return function(){if(!nnm[n]) return undefined;try{if(!nom[n])nom[n]=nnm[n]();return nom[n];}catch(e){e.message=e.message.replace(/nv_/g,'');var tmp = e.stack.substring(0,e.stack.lastIndexOf(n));e.stack = tmp.substring(0,tmp.lastIndexOf('\n'));e.stack = e.stack.replace(/\snv_/g,' ');e.stack = $gstack(e.stack);e.stack += '\n    at ' + n.substring(2);console.error(e);}
 }}}()
-var x=['./common/slots.wxml','./pages/index/index.vue.wxml','./pages/index/index.wxml','./index.vue.wxml','./pages/map/indexmap.vue.wxml','./pages/map/indexmap.wxml','./indexmap.vue.wxml','./pages/scroll-view/scroll-view.vue.wxml','./pages/scroll-view/scroll-view.wxml','./scroll-view.vue.wxml','./pages/trackmap/webmap.vue.wxml','./pages/trackmap/webmap.wxml','./webmap.vue.wxml','./pages/video/video.vue.wxml','./pages/video/video.wxml','./video.vue.wxml'];d_[x[0]]={}
-var m0=function(e,s,r,gg){
+var x=['./common/slots.wxml','/components/uni-drawer.vue.wxml','./components/uni-drawer.vue.wxml','/common/slots.wxml','./pages/H5Map/h5map.vue.wxml','./pages/H5Map/h5map.wxml','./h5map.vue.wxml','./pages/index/index.vue.wxml','./pages/index/index.wxml','./index.vue.wxml','./pages/map/indexmap.vue.wxml','./pages/map/indexmap.wxml','./indexmap.vue.wxml','./pages/scroll-view/scroll-view.vue.wxml','./pages/scroll-view/scroll-view.wxml','./scroll-view.vue.wxml','./pages/trackmap/webmap.vue.wxml','./pages/trackmap/webmap.wxml','./webmap.vue.wxml','./pages/video/video.vue.wxml','./pages/video/video.wxml','./video.vue.wxml'];d_[x[0]]={}
+d_[x[0]]["5ae1b94f-default-5ae1b94f-1"]=function(e,s,r,gg){
 var z=gz$gwx_1()
-return r
-}
-e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
-d_[x[1]]={}
-d_[x[1]]["5ae1b94f"]=function(e,s,r,gg){
-var z=gz$gwx_2()
-var b=x[1]+':5ae1b94f'
+var b=x[0]+':5ae1b94f-default-5ae1b94f-1'
 r.wxVkey=b
-gg.f=$gdc(f_["./pages/index/index.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[1]);return}
+gg.f=$gdc(f_["./common/slots.wxml"],"",1)
+if(p_[b]){_wl(b,x[0]);return}
 p_[b]=true
 try{
-cs.push("./pages/index/index.vue.wxml:map:1:128")
-var oB=_mz(z,'map',['showLocation',-1,'bindcontroltap',1,'class',1,'controls',2,'data-comkey',3,'data-eventid',4,'id',5,'latitude',6,'longitude',7,'markers',8,'polyline',9,'scale',10,'style',11],[],e,s,gg)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+d_[x[0]]["2c081889-default-2c081889-0"]=function(e,s,r,gg){
+var z=gz$gwx_1()
+var b=x[0]+':2c081889-default-2c081889-0'
+r.wxVkey=b
+gg.f=$gdc(f_["./common/slots.wxml"],"",1)
+if(p_[b]){_wl(b,x[0]);return}
+p_[b]=true
+try{
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m0=function(e,s,r,gg){
+var z=gz$gwx_1()
+var oB=e_[x[0]].i
+_ai(oB,x[1],e_,x[0],1,1)
+oB.pop()
+return r
+}
+e_[x[0]]={f:m0,j:[],i:[],ti:[x[1]],ic:[]}
+d_[x[2]]={}
+d_[x[2]]["f97aa768"]=function(e,s,r,gg){
+var z=gz$gwx_2()
+var b=x[2]+':f97aa768'
+r.wxVkey=b
+gg.f=$gdc(f_["./components/uni-drawer.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[2]);return}
+p_[b]=true
+try{
+cs.push("./components/uni-drawer.vue.wxml:view:1:62")
+var oB=_mz(z,'view',['catchtouchmove',1,'class',1],[],e,s,gg)
 var xC=_v()
 _(oB,xC)
-if(_oz(z,13,e,s,gg)){xC.wxVkey=1
-cs.push("./pages/index/index.vue.wxml:cover-view:1:437")
+if(_oz(z,4,e,s,gg)){xC.wxVkey=1
+cs.push("./components/uni-drawer.vue.wxml:view:1:253")
 cs.pop()
 }
+var oD=_v()
+_(oB,oD)
+cs.push("./components/uni-drawer.vue.wxml:template:1:449")
+var fE=_oz(z,6,e,s,gg)
+var cF=_gd(x[2],fE,e_,d_)
+if(cF){
+var hG=_1z(z,5,e,s,gg) || {}
+var cur_globalf=gg.f
+oD.wxXCkey=3
+cF(hG,hG,oD,gg)
+gg.f=cur_globalf
+}
+else _w(fE,x[2],1,507)
+cs.pop()
 xC.wxXCkey=1
 cs.pop()
 _(r,oB)
@@ -1190,41 +1274,174 @@ throw err
 p_[b]=false
 return r
 }
-var m1=function(e,s,r,gg){
+d_[x[2]]["default"]=function(e,s,r,gg){
 var z=gz$gwx_2()
+var b=x[2]+':default'
+r.wxVkey=b
+gg.f=$gdc(f_["./components/uni-drawer.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[2]);return}
+p_[b]=true
+try{
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
 return r
 }
-e_[x[1]]={f:m1,j:[],i:[],ti:[],ic:[]}
-d_[x[2]]={}
-var m2=function(e,s,r,gg){
-var z=gz$gwx_3()
+var m1=function(e,s,r,gg){
+var z=gz$gwx_2()
 var oD=e_[x[2]].i
 _ai(oD,x[3],e_,x[2],1,1)
+oD.pop()
+return r
+}
+e_[x[2]]={f:m1,j:[],i:[],ti:[x[3]],ic:[]}
+d_[x[4]]={}
+d_[x[4]]["2c081889"]=function(e,s,r,gg){
+var z=gz$gwx_3()
+var b=x[4]+':2c081889'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/H5Map/h5map.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[4]);return}
+p_[b]=true
+try{
+var oB=_v()
+_(r,oB)
+cs.push("./pages/H5Map/h5map.vue.wxml:template:1:287")
+var xC=_oz(z,2,e,s,gg)
+var oD=_gd(x[4],xC,e_,d_)
+if(oD){
+var fE=_1z(z,1,e,s,gg) || {}
+var cur_globalf=gg.f
+oB.wxXCkey=3
+oD(fE,fE,oB,gg)
+gg.f=cur_globalf
+}
+else _w(xC,x[4],1,415)
+cs.pop()
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
+return r
+}
+var m2=function(e,s,r,gg){
+var z=gz$gwx_3()
+var cF=e_[x[4]].i
+_ai(cF,x[1],e_,x[4],1,1)
+cF.pop()
+return r
+}
+e_[x[4]]={f:m2,j:[],i:[],ti:[x[1]],ic:[]}
+d_[x[5]]={}
+var m3=function(e,s,r,gg){
+var z=gz$gwx_4()
+var oH=e_[x[5]].i
+_ai(oH,x[6],e_,x[5],1,1)
+var cI=_v()
+_(r,cI)
+cs.push("./pages/H5Map/h5map.wxml:template:2:6")
+var oJ=_oz(z,1,e,s,gg)
+var lK=_gd(x[5],oJ,e_,d_)
+if(lK){
+var aL=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+cI.wxXCkey=3
+lK(aL,aL,cI,gg)
+gg.f=cur_globalf
+}
+else _w(oJ,x[5],2,18)
+cs.pop()
+oH.pop()
+return r
+}
+e_[x[5]]={f:m3,j:[],i:[],ti:[x[6]],ic:[]}
+d_[x[7]]={}
+d_[x[7]]["5ae1b94f"]=function(e,s,r,gg){
+var z=gz$gwx_5()
+var b=x[7]+':5ae1b94f'
+r.wxVkey=b
+gg.f=$gdc(f_["./pages/index/index.vue.wxml"],"",1)
+if(p_[b]){_wl(b,x[7]);return}
+p_[b]=true
+try{
+cs.push("./pages/index/index.vue.wxml:view:1:75")
+var oB=_n('view')
+_rz(z,oB,'class',1,e,s,gg)
+cs.push("./pages/index/index.vue.wxml:map:1:176")
+var xC=_mz(z,'map',['showLocation',-1,'bindcontroltap',2,'class',1,'controls',2,'data-comkey',3,'data-eventid',4,'id',5,'latitude',6,'longitude',7,'markers',8,'polyline',9,'scale',10,'style',11],[],e,s,gg)
+var oD=_v()
+_(xC,oD)
+if(_oz(z,14,e,s,gg)){oD.wxVkey=1
+cs.push("./pages/index/index.vue.wxml:cover-view:1:485")
+cs.pop()
+}
+oD.wxXCkey=1
+cs.pop()
+_(oB,xC)
 var fE=_v()
-_(r,fE)
-cs.push("./pages/index/index.wxml:template:2:6")
-var cF=_oz(z,1,e,s,gg)
-var hG=_gd(x[2],cF,e_,d_)
+_(oB,fE)
+cs.push("./pages/index/index.vue.wxml:template:1:736")
+var cF=_oz(z,16,e,s,gg)
+var hG=_gd(x[7],cF,e_,d_)
 if(hG){
-var oH=_1z(z,0,e,s,gg) || {}
+var oH=_1z(z,15,e,s,gg) || {}
 var cur_globalf=gg.f
 fE.wxXCkey=3
 hG(oH,oH,fE,gg)
 gg.f=cur_globalf
 }
-else _w(cF,x[2],2,18)
+else _w(cF,x[7],1,864)
 cs.pop()
-oD.pop()
+cs.pop()
+_(r,oB)
+}catch(err){
+p_[b]=false
+throw err
+}
+p_[b]=false
 return r
 }
-e_[x[2]]={f:m2,j:[],i:[],ti:[x[3]],ic:[]}
-d_[x[4]]={}
-d_[x[4]]["ba0c243a"]=function(e,s,r,gg){
-var z=gz$gwx_4()
-var b=x[4]+':ba0c243a'
+var m4=function(e,s,r,gg){
+var z=gz$gwx_5()
+var eN=e_[x[7]].i
+_ai(eN,x[1],e_,x[7],1,1)
+eN.pop()
+return r
+}
+e_[x[7]]={f:m4,j:[],i:[],ti:[x[1]],ic:[]}
+d_[x[8]]={}
+var m5=function(e,s,r,gg){
+var z=gz$gwx_6()
+var oP=e_[x[8]].i
+_ai(oP,x[9],e_,x[8],1,1)
+var xQ=_v()
+_(r,xQ)
+cs.push("./pages/index/index.wxml:template:2:6")
+var oR=_oz(z,1,e,s,gg)
+var fS=_gd(x[8],oR,e_,d_)
+if(fS){
+var cT=_1z(z,0,e,s,gg) || {}
+var cur_globalf=gg.f
+xQ.wxXCkey=3
+fS(cT,cT,xQ,gg)
+gg.f=cur_globalf
+}
+else _w(oR,x[8],2,18)
+cs.pop()
+oP.pop()
+return r
+}
+e_[x[8]]={f:m5,j:[],i:[],ti:[x[9]],ic:[]}
+d_[x[10]]={}
+d_[x[10]]["ba0c243a"]=function(e,s,r,gg){
+var z=gz$gwx_7()
+var b=x[10]+':ba0c243a'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/map/indexmap.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[4]);return}
+if(p_[b]){_wl(b,x[10]);return}
 p_[b]=true
 try{
 cs.push("./pages/map/indexmap.vue.wxml:view:1:259")
@@ -1252,41 +1469,41 @@ throw err
 p_[b]=false
 return r
 }
-var m3=function(e,s,r,gg){
-var z=gz$gwx_4()
+var m6=function(e,s,r,gg){
+var z=gz$gwx_7()
 return r
 }
-e_[x[4]]={f:m3,j:[],i:[],ti:[],ic:[]}
-d_[x[5]]={}
-var m4=function(e,s,r,gg){
-var z=gz$gwx_5()
-var lK=e_[x[5]].i
-_ai(lK,x[6],e_,x[5],1,1)
-var aL=_v()
-_(r,aL)
+e_[x[10]]={f:m6,j:[],i:[],ti:[],ic:[]}
+d_[x[11]]={}
+var m7=function(e,s,r,gg){
+var z=gz$gwx_8()
+var cW=e_[x[11]].i
+_ai(cW,x[12],e_,x[11],1,1)
+var oX=_v()
+_(r,oX)
 cs.push("./pages/map/indexmap.wxml:template:2:6")
-var tM=_oz(z,1,e,s,gg)
-var eN=_gd(x[5],tM,e_,d_)
-if(eN){
-var bO=_1z(z,0,e,s,gg) || {}
+var lY=_oz(z,1,e,s,gg)
+var aZ=_gd(x[11],lY,e_,d_)
+if(aZ){
+var t1=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-aL.wxXCkey=3
-eN(bO,bO,aL,gg)
+oX.wxXCkey=3
+aZ(t1,t1,oX,gg)
 gg.f=cur_globalf
 }
-else _w(tM,x[5],2,18)
+else _w(lY,x[11],2,18)
 cs.pop()
-lK.pop()
+cW.pop()
 return r
 }
-e_[x[5]]={f:m4,j:[],i:[],ti:[x[6]],ic:[]}
-d_[x[7]]={}
-d_[x[7]]["42a94935"]=function(e,s,r,gg){
-var z=gz$gwx_6()
-var b=x[7]+':42a94935'
+e_[x[11]]={f:m7,j:[],i:[],ti:[x[12]],ic:[]}
+d_[x[13]]={}
+d_[x[13]]["42a94935"]=function(e,s,r,gg){
+var z=gz$gwx_9()
+var b=x[13]+':42a94935'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/scroll-view/scroll-view.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[7]);return}
+if(p_[b]){_wl(b,x[13]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1296,41 +1513,41 @@ throw err
 p_[b]=false
 return r
 }
-var m5=function(e,s,r,gg){
-var z=gz$gwx_6()
+var m8=function(e,s,r,gg){
+var z=gz$gwx_9()
 return r
 }
-e_[x[7]]={f:m5,j:[],i:[],ti:[],ic:[]}
-d_[x[8]]={}
-var m6=function(e,s,r,gg){
-var z=gz$gwx_7()
-var oR=e_[x[8]].i
-_ai(oR,x[9],e_,x[8],1,1)
-var fS=_v()
-_(r,fS)
+e_[x[13]]={f:m8,j:[],i:[],ti:[],ic:[]}
+d_[x[14]]={}
+var m9=function(e,s,r,gg){
+var z=gz$gwx_10()
+var o4=e_[x[14]].i
+_ai(o4,x[15],e_,x[14],1,1)
+var x5=_v()
+_(r,x5)
 cs.push("./pages/scroll-view/scroll-view.wxml:template:2:6")
-var cT=_oz(z,1,e,s,gg)
-var hU=_gd(x[8],cT,e_,d_)
-if(hU){
-var oV=_1z(z,0,e,s,gg) || {}
+var o6=_oz(z,1,e,s,gg)
+var f7=_gd(x[14],o6,e_,d_)
+if(f7){
+var c8=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-fS.wxXCkey=3
-hU(oV,oV,fS,gg)
+x5.wxXCkey=3
+f7(c8,c8,x5,gg)
 gg.f=cur_globalf
 }
-else _w(cT,x[8],2,18)
+else _w(o6,x[14],2,18)
 cs.pop()
-oR.pop()
+o4.pop()
 return r
 }
-e_[x[8]]={f:m6,j:[],i:[],ti:[x[9]],ic:[]}
-d_[x[10]]={}
-d_[x[10]]["9ead1fc0"]=function(e,s,r,gg){
-var z=gz$gwx_8()
-var b=x[10]+':9ead1fc0'
+e_[x[14]]={f:m9,j:[],i:[],ti:[x[15]],ic:[]}
+d_[x[16]]={}
+d_[x[16]]["9ead1fc0"]=function(e,s,r,gg){
+var z=gz$gwx_11()
+var b=x[16]+':9ead1fc0'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/trackmap/webmap.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[10]);return}
+if(p_[b]){_wl(b,x[16]);return}
 p_[b]=true
 try{
 var oB=_v()
@@ -1347,41 +1564,41 @@ throw err
 p_[b]=false
 return r
 }
-var m7=function(e,s,r,gg){
-var z=gz$gwx_8()
+var m10=function(e,s,r,gg){
+var z=gz$gwx_11()
 return r
 }
-e_[x[10]]={f:m7,j:[],i:[],ti:[],ic:[]}
-d_[x[11]]={}
-var m8=function(e,s,r,gg){
-var z=gz$gwx_9()
-var lY=e_[x[11]].i
-_ai(lY,x[12],e_,x[11],1,1)
-var aZ=_v()
-_(r,aZ)
+e_[x[16]]={f:m10,j:[],i:[],ti:[],ic:[]}
+d_[x[17]]={}
+var m11=function(e,s,r,gg){
+var z=gz$gwx_12()
+var cAB=e_[x[17]].i
+_ai(cAB,x[18],e_,x[17],1,1)
+var oBB=_v()
+_(r,oBB)
 cs.push("./pages/trackmap/webmap.wxml:template:2:6")
-var t1=_oz(z,1,e,s,gg)
-var e2=_gd(x[11],t1,e_,d_)
-if(e2){
-var b3=_1z(z,0,e,s,gg) || {}
+var lCB=_oz(z,1,e,s,gg)
+var aDB=_gd(x[17],lCB,e_,d_)
+if(aDB){
+var tEB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-aZ.wxXCkey=3
-e2(b3,b3,aZ,gg)
+oBB.wxXCkey=3
+aDB(tEB,tEB,oBB,gg)
 gg.f=cur_globalf
 }
-else _w(t1,x[11],2,18)
+else _w(lCB,x[17],2,18)
 cs.pop()
-lY.pop()
+cAB.pop()
 return r
 }
-e_[x[11]]={f:m8,j:[],i:[],ti:[x[12]],ic:[]}
-d_[x[13]]={}
-d_[x[13]]["49ac6de1"]=function(e,s,r,gg){
-var z=gz$gwx_10()
-var b=x[13]+':49ac6de1'
+e_[x[17]]={f:m11,j:[],i:[],ti:[x[18]],ic:[]}
+d_[x[19]]={}
+d_[x[19]]["49ac6de1"]=function(e,s,r,gg){
+var z=gz$gwx_13()
+var b=x[19]+':49ac6de1'
 r.wxVkey=b
 gg.f=$gdc(f_["./pages/video/video.vue.wxml"],"",1)
-if(p_[b]){_wl(b,x[13]);return}
+if(p_[b]){_wl(b,x[19]);return}
 p_[b]=true
 try{
 }catch(err){
@@ -1391,34 +1608,34 @@ throw err
 p_[b]=false
 return r
 }
-var m9=function(e,s,r,gg){
-var z=gz$gwx_10()
+var m12=function(e,s,r,gg){
+var z=gz$gwx_13()
 return r
 }
-e_[x[13]]={f:m9,j:[],i:[],ti:[],ic:[]}
-d_[x[14]]={}
-var m10=function(e,s,r,gg){
-var z=gz$gwx_11()
-var o6=e_[x[14]].i
-_ai(o6,x[15],e_,x[14],1,1)
-var f7=_v()
-_(r,f7)
+e_[x[19]]={f:m12,j:[],i:[],ti:[],ic:[]}
+d_[x[20]]={}
+var m13=function(e,s,r,gg){
+var z=gz$gwx_14()
+var oHB=e_[x[20]].i
+_ai(oHB,x[21],e_,x[20],1,1)
+var xIB=_v()
+_(r,xIB)
 cs.push("./pages/video/video.wxml:template:2:6")
-var c8=_oz(z,1,e,s,gg)
-var h9=_gd(x[14],c8,e_,d_)
-if(h9){
-var o0=_1z(z,0,e,s,gg) || {}
+var oJB=_oz(z,1,e,s,gg)
+var fKB=_gd(x[20],oJB,e_,d_)
+if(fKB){
+var cLB=_1z(z,0,e,s,gg) || {}
 var cur_globalf=gg.f
-f7.wxXCkey=3
-h9(o0,o0,f7,gg)
+xIB.wxXCkey=3
+fKB(cLB,cLB,xIB,gg)
 gg.f=cur_globalf
 }
-else _w(c8,x[14],2,18)
+else _w(oJB,x[20],2,18)
 cs.pop()
-o6.pop()
+oHB.pop()
 return r
 }
-e_[x[14]]={f:m10,j:[],i:[],ti:[x[15]],ic:[]}
+e_[x[20]]={f:m13,j:[],i:[],ti:[x[21]],ic:[]}
 if(path&&e_[path]){
 return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
 var main=e_[path].f
@@ -1439,7 +1656,7 @@ return root;
 
 
 
-__wxAppCode__['app.json']={"pages":["pages/index/index","pages/video/video","pages/scroll-view/scroll-view","pages/map/indexmap","pages/trackmap/webmap"],"subPackages":[],"window":{"navigationBarTextStyle":"black","navigationBarTitleText":"Uni-Map","navigationBarBackgroundColor":"skyblue","backgroundColor":"skyblue"},"usingComponents":{},"splashscreen":{"alwaysShowBeforeRender":true,"autoclose":false},"appname":"ShowMap"};
+__wxAppCode__['app.json']={"pages":["pages/index/index","pages/video/video","pages/scroll-view/scroll-view","pages/map/indexmap","pages/trackmap/webmap","pages/H5Map/h5map"],"subPackages":[],"window":{"navigationStyle":"default"},"usingComponents":{},"splashscreen":{"alwaysShowBeforeRender":true,"autoclose":false},"appname":"ShowMap"};
 __wxAppCode__['app.wxml']=$gwx('./app.wxml');
 
 
@@ -1724,6 +1941,41 @@ eval("/* WEBPACK VAR INJECTION */(function(global) {// fix env\r\ntry {\r\n    i
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=script&lang=js&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n{\n  props: {\n    /**\n            * 显示状态\n            */\n    visible: {\n      type: Boolean,\n      default: false },\n\n    /**\n                         * 显示模式（左、右），只在初始化生效\n                         */\n    mode: String,\n    /**\n                   * 蒙层显示状态\n                   */\n    mask: {\n      type: [Boolean, String],\n      default: true } },\n\n\n  data: function data() {\n    return {\n      rightMode: false,\n      catchtouchmove: false };\n\n  },\n  computed: {\n    showMask: function showMask() {\n      return String(this.mask) === 'true';\n    } },\n\n  created: function created() {\n    this.rightMode = this.mode === 'right';\n\n\n\n  },\n  methods: {\n    close: function close() {\n      this.$emit('close');\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///components/uni-drawer.vue?vue&type=script&lang=js&?955a");
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=style&index=0&lang=css&":
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=style&index=0&lang=css& ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=template&id=0f983259&":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=template&id=0f983259& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    {\n      staticClass: \"uni-drawer\",\n      class: {\n        \"uni-drawer-visible\": _vm.visible,\n        \"uni-drawer-right\": _vm.rightMode\n      },\n      attrs: { catchtouchmove: _vm.catchtouchmove }\n    },\n    [\n      _vm.showMask\n        ? _c(\"view\", {\n            staticClass: \"uni-drawer-mask\",\n            attrs: { eventid: \"f97aa768-0\" },\n            on: { tap: _vm.close }\n          })\n        : _vm._e(),\n      _c(\n        \"view\",\n        { staticClass: \"uni-drawer-content\" },\n        [_vm._t(\"default\", null, { mpcomid: \"f97aa768-0\" })],\n        2\n      )\n    ]\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=template&id=0f983259&");
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js":
 /*!********************************************************************!*\
   !*** ./node_modules/vue-loader/lib/runtime/componentNormalizer.js ***!
@@ -1744,6 +1996,54 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, exports) {
 
 eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn this;\n})();\n\ntry {\n\t// This works if eval is allowed (see CSP)\n\tg = g || new Function(\"return this\")();\n} catch (e) {\n\t// This works if the window reference is available\n\tif (typeof window === \"object\") g = window;\n}\n\n// g can still be undefined, but nothing to do about it...\n// We return undefined, instead of nothing here, so it's\n// easier to handle this case. if(!global) { ...}\n\nmodule.exports = g;\n\n\n//# sourceURL=D:/Program_Files/HBuilderX/plugins/uniapp-cli/node_modules/webpack/buildin/global.js");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue":
+/*!****************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./uni-drawer.vue?vue&type=template&id=0f983259& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=template&id=0f983259&\");\n/* harmony import */ var _uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./uni-drawer.vue?vue&type=script&lang=js& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=script&lang=js&\");\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./uni-drawer.vue?vue&type=style&index=0&lang=css& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* hot reload */\nif (false) { var api; }\ncomponent.options.__file = \"E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!./uni-drawer.vue?vue&type=script&lang=js& */ \"./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=script&lang=js&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=uni-app:///components/uni-drawer.vue?vue&type=script&lang=js&?1592");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=style&index=0&lang=css&":
+/*!*************************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=style&index=0&lang=css& ***!
+  \*************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!./uni-drawer.vue?vue&type=style&index=0&lang=css& */ \"./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\components\\uni-drawer.vue?vue&type=template&id=0f983259&":
+/*!***********************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=template&id=0f983259& ***!
+  \***********************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!./uni-drawer.vue?vue&type=template&id=0f983259& */ \"./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue?vue&type=template&id=0f983259&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_uni_drawer_vue_vue_type_template_id_0f983259___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/components/uni-drawer.vue?vue&type=template&id=0f983259&");
 
 /***/ }),
 
@@ -1783,7 +2083,7 @@ define('pages/index/index.js',function(require, module, exports, window, documen
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _amapWx = _interopRequireDefault(__webpack_require__(/*! ../../components/amap-wx.js */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\amap-wx.js\"));\nvar _vue = _interopRequireDefault(__webpack_require__(/*! vue */ \"./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mpvue/index.js\"));\n\nvar _vueAmap = _interopRequireDefault(__webpack_require__(/*! vue-amap */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\vue-amap\\\\dist\\\\index.js\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  data: function data() {\n    return {\n      terminalID: 1,\n      destinationPoint: [],\n      pointsIndex: 0,\n      markerIndex: 0,\n      playTrajectory: '',\n      positionPoint: {\n        longitude: '',\n        latitude: '' },\n\n      myMapContext: '',\n      scale: 10,\n      title: 'map',\n      latitude: '',\n      longitude: '',\n      locationName: '',\n      sWidth: '',\n      sHeight: '',\n      traceFlag: false,\n      traceData: [[119.478935, 30.997761], [116.578939, 31.997825], [116.678912, 32.998549], [116.778912, 33.998549], [116.878998, 34.998555],\n      [116.978998, 35.998555], [117.479282, 36.99856], [117.579658, 37.998528], [117.680151, 38.998453], [116.480784, 39.998302],\n      [116.480784, 39.998302], [116.481149, 39.998184], [116.481573, 39.997997], [116.481863, 39.997846], [116.482072, 39.997718],\n      [116.482362, 39.997718], [116.483633, 39.998935], [116.48367, 39.998968], [116.484648, 39.999861]],\n\n      // [ 119.699559,31.780254],[113.699559,34.780254]\n      markers: [{\n        //title:'我在哪，我在哪',\n        id: 0,\n        latitude: '',\n        longitude: '',\n        width: 20,\n        height: 20, //APP不支持宽高\n        iconPath: '../../static/position64.png',\n        label: {\n          color: '#F76350',\n          bgColor: '#fff',\n          padding: 5,\n          borderRadius: 4 },\n\n        callout: {\n          content: '',\n          color: '#F76350',\n          fontSize: 12 } },\n\n\n      {\n        id: 1,\n        latitude: '',\n        longitude: '',\n        iconPath: '../../static/qq.png',\n        label: {\n          color: '#F76350',\n          bgColor: '#fff',\n          padding: 5,\n          borderRadius: 4 },\n\n        callout: {\n          content: '',\n          color: '#F76350',\n          fontSize: 12 } }],\n\n\n\n      controls: [{\n        id: 0,\n        position: {\n          left: 3,\n          top: 460,\n          width: 35,\n          height: 35 },\n\n        iconPath: '../../static/nowposition.png',\n        clickable: true },\n\n      /* \t\t\t\t{\n                           \t\t\t\t\tid:1,\n                           \t\t\t\t\tposition:{\n                           \t\t\t\t\t\tleft:6,\n                           \t\t\t\t\t\ttop:450,\n                           \t\t\t\t\t\twidth:35,\n                           \t\t\t\t\t\theight:35,\n                           \t\t\t\t\t},\n                           \t\t\t\t\ticonPath:'../../static/zoom_in.png',\t\n                           \t\t\t\t\tclickable:true\t\t\t\t\n                           \t\t\t\t}, */\n      {\n        id: 2,\n        position: {\n          left: 6,\n          top: 495,\n          width: 35,\n          height: 35 },\n\n        iconPath: '../../static/zoom_out.png',\n        clickable: true },\n\n      {\n        id: 3,\n        position: {\n          left: 300,\n          top: 480,\n          width: 50,\n          height: 50 },\n\n        iconPath: '../../static/menu.png',\n        clickable: true }],\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      polyline: [\n      {\n        'points': [],\n        color: '#00BFFF',\n        width: 5 }] };\n\n\n\n  },\n  onReady: function onReady() {\n    var _this = this;\n    this.mapContext = uni.createMapContext(\"myMap\");\n    this.mapContext.getScale({\n      success: function success(res) {\n        _this.scale = res.scale;\n      } });\n\n    uni.getLocation({\n      type: 'gcj02',\n      success: function success(res) {\n        _this.longitude = res.longitude;\n        _this.latitude = res.latitude;\n        _this.markers[0].longitude = res.longitude;\n        _this.markers[0].latitude = res.latitude;\n        _this.markers[0].width = 30;\n        _this.markers[0].height = 30;\n        _this.getLocationName(res.longitude, res.latitude, _this);\n      } });\n\n  },\n  onLoad: function onLoad() {\n    var that = this;\n    this.getLocationName(null, null, this);\n  },\n  methods: {\n    controlTap: function controlTap(e) {\n      var that = this;\n      //定位\n      if (e.mp.controlId == 0) {\n        var _this = this;\n        uni.getLocation({\n          success: function success(res) {\n            _this.mapContext = uni.createMapContext('myMap');\n            _this.longitude = res.longitude;\n            _this.latitude = res.latitude;\n            _this.mapContext.moveToLocation();\n            _this.$data.scale = 13;\n            _this.positionPoint = res.longitude;\n            _this.positionPoint = res.latitude;\n            _this.mapContext.translateMarker({\n              markerId: 0,\n              destination: _this.positionPoint,\n              autoRotate: false,\n              rotate: 0,\n              duration: 5000,\n              animationEnd: function animationEnd() {\n                uni.showToast({\n                  title: \"End ReLoacte\",\n                  duration: 3000 });\n\n              } });\n\n            var toastStr = _this.$data.locationName;\n            _this.getLocationName(res.longitude, res.latitude, _this);\n          } });\n\n      }\n      //放大\n      // \t\t\t\tif(e.mp.controlId==1){\n      // \t\t\t\t\t this.$data.scale=++this.scale;\n      // \t\t\t\t}\n      //缩小\n      if (e.mp.controlId == 2) {\n        this.$data.scale = --this.scale;\n      }\n      //底部弹框\n      if (e.mp.controlId == 3) {\n        uni.showActionSheet({\n          itemList: ['echarts', 'vedio', 'scroll', '轨迹回放'],\n          success: function success(res) {\n            if (res.tapIndex == 0) {\n              uni.navigateTo({\n                url: '../npmTest/index1' });\n\n            }\n            if (res.tapIndex == 1) {\n              uni.navigateTo({\n                url: '../video/video' });\n\n            }\n            if (res.tapIndex == 2) {\n              uni.navigateTo({\n                url: '../scroll-view/scroll-view' });\n\n            }\n            //轨迹回放\n            if (res.tapIndex == 3) {\n              that.traceFlag = true;\n\n              that.mapContext = uni.createMapContext('maMap');\n              for (var i = 0; i < that.traceData.length; i++) {\n                var tempObj = {};\n                tempObj.longitude = that.traceData[i][0];\n                tempObj.latitude = that.traceData[i][1];\n                that.polyline[0].points.push(tempObj);\n                that.destinationPoint.push({ longitude: that.$data.traceData[i][0], latitude: that.$data.traceData[i][1] });\n                //为了触发页面页面数据更新需要触发setter\n                _vue.default.set(that.polyline[0].points[i], 'longitude', that.traceData[i][0]);\n                _vue.default.set(that.polyline[0].points[i], 'latitude', that.traceData[i][1]);\n              }\n              var qidianMarker = {\n                id: 2,\n                latitude: '',\n                longitude: '',\n                iconPath: '../../static/qidian.png' };\n\n              var zhongdianMarker = {\n                id: 3,\n                latitude: '',\n                longitude: '',\n                iconPath: '../../static/zhongdian.png' };\n\n              that.markers.push(qidianMarker);\n              that.markers.push(zhongdianMarker);\n              that.markers[2].longitude = that.traceData[0][0];\n              that.markers[2].latitude = that.traceData[0][1];\n              that.markers[3].longitude = that.traceData[that.traceData.length - 1][0];\n              that.markers[3].latitude = that.traceData[that.traceData.length - 1][1];\n\n              uni.navigateTo({\n                url: '../trackmap/webmap' });\n\n\n            }\n          },\n          fail: function fail(res) {\n            console.log(res.errMsg);\n          } });\n\n      }\n      //定位打点\n      if (e.mp.controlId == 4) {\n        var _that = this;\n        uni.getLocation({\n          success: function success(res) {\n            _that.$data.traceData.push({\n              traceLon: res.longitude,\n              traceLat: res.latitude });\n\n          } });\n\n      }\n    },\n    getLocationName: function getLocationName(longitude, latitude, _this) {\n      var pages = getCurrentPages();\n      var page = pages[pages.length - 1];\n\n      var ptObj = new plus.maps.Point(longitude, latitude);\n      var currentWebview = page.$getAppWebview();\n      plus.maps.Map.reverseGeocode(ptObj, {}, function (event) {\n        var address = event.address; // 转换后的地理位置\n        var point = event.coord; // 转换后的坐标信息\n        var coordType = event.coordType; // 转换后的坐标系类型\n        console.log(\"Address:\" + address);\n        _this.$data.markers[0].callout.content = address;\n      }, function (e) {\n        console.log(\"Failed:\" + JSON.stringify(e));\n      });\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    },\n    endAnimation: function endAnimation() {\n      this.traceFlag = false;\n      this.polyline = null; //置空轨迹线坐标点，会同步删除轨迹线\n      this.markers[2] = null;\n      this.markers[3] = null;\n    },\n    /* timeOutFun:function(){\n       \tthis.destinationPoint.push({longtitude:this.traceData[i][0],latitude:this.traceData[i][1]});\n       \tVue.set(this.destinationPoint[i],'longtitude',this.traceData[i][0]);\n       \tVue.set(this.destinationPoint[i],'latitude',this.traceData[i][1]);\n       \tmapContext.translateMarker({\n       \tmarkerId:0,\n       \tdestination:this.destinationPoint[i],\n       \tautoRotate:false,\n       \trotate:1,\n       \tduration:3000,\n       \tanimationEnd:function(){\n       \t\tconsole.log(\"移动移动结束\");\n       \t\tif(this.$data.pointsIndex<18){\n       \t\t\tconsole.log(\"移动移动结束.....\");\n       \t\t\t// startAnimation(mapContext);\n       \t\t}\n       \t\tthis.$data.pointsIndex++;\n       \t\tconsole.log(this.$data.destinationPoint);\n       \t\t\n       \t},\n       \tfail:function(e){\n       \t\tconsole.log(\"来了老弟\");\n       \t\tconsole.log(e);\n       \t\t}\n       \t});\n       }, */\n    startAnimation: function startAnimation() {var _this2 = this;\n      /* console.log(mapContext);\n                                                                  for (var i=0;i<this.traceData.length;i++) {\n                                                                  \tconsole.log(i);\n                                                                  \tthis.destinationPoint.push({longtitude:this.traceData[i][0],latitude:this.traceData[i][1]});\n                                                                  \tVue.set(this.destinationPoint[i],'longtitude',this.traceData[i][0]);\n                                                                  \tVue.set(this.destinationPoint[i],'latitude',this.traceData[i][1]);\n                                                                  \tconsole.log(this.destinationPoint[i]);\t\t\t\t\t\n                                                                  \tmapContext.translateMarker({\n                                                                  \tmarkerId:1,\n                                                                  \tdestination:this.destinationPoint[i],\n                                                                  \tautoRotate:false,\n                                                                  \trotate:0,\n                                                                  \tduration:5000,\n                                                                  \tanimationEnd:function(){\t\t\t\t\t\t\n                                                                  \t\tconsole.log(\"移动移动结束\");\n                                                                  \t},\n                                                                  \tfail:function(e){\n                                                                  \t\t\t\tconsole.log(\"来了老弟\");\n                                                                  \t\t\t\tconsole.log(e);\n                                                                  \t\t}\n                                                                  \t});\n                                                                  } */\n\n      var show = function show() {\n        _this2.playTrajectory = setTimeout(function () {\n          // console.log(this.polyline[0].points[this.markerIndex].longitude,this.polyline[0].points[this.markerIndex].latitude)\n          // this.setCenterPoints(this.polyline[0].points[this.markerIndex].longitude,this.polyline[0].points[this.markerIndex].latitude)\n          _this2.markers[2].latitude = _this2.polyline[0].points[_this2.markerIndex].latitude;\n          _this2.markers[2].longitude = _this2.polyline[0].points[_this2.markerIndex].longitude;\n          _this2.markerIndex++;\n          if (_this2.markerIndex < _this2.polyline[0].points.length) {\n            show();\n          } else {\n            // this.changeIcon=playIcon;\n            clearTimeout(_this2.playTrajectory);\n            _this2.markerIndex = 0;\n            _this2.isPlayNow = false;\n          }\n        }, 200);\n      };\n      if (this.isPlayNow) {\n        clearTimeout(this.playTrajectory);\n      } else {\n        show();\n      }\n      // this.changeIcon==pauseIcon?this.changeIcon=playIcon:this.changeIcon=pauseIcon;\n      // this.isPlayNow=!this.isPlayNow;\n    },\n    continueAnimation: function continueAnimation() {var _this3 = this;\n      var show = function show() {\n        _this3.myMapContext = uni.createMapContext('maMap');\n        _this3.playTrajectory = setTimeout(function () {\n          console.log(_this3.markerIndex);\n          _this3.destinationPoint.latitude = _this3.polyline[0].points[_this3.markerIndex].latitude;\n          _this3.destinationPoint.longitude = _this3.polyline[0].points[_this3.markerIndex].longitude;\n          _this3.markerIndex++;\n          _this3.myMapContext.translateMarker({\n            markerId: 1,\n            destination: _this3.destinationPoint,\n            autoRotate: true,\n            rotate: 1,\n            duration: 2000,\n            animationEnd: function animationEnd() {\n              console.log(\"移动移动结束\");\n            } });\n\n          if (_this3.markerIndex < _this3.polyline[0].points.length) {\n            show();\n          } else {\n            // this.changeIcon=playIcon;\n            clearTimeout(_this3.playTrajectory);\n            _this3.markerIndex = 0;\n            // this.isPlayNow=false;\n          }\n        }, 2000);\n      };\n      if (this.isPlayNow) {\n        clearTimeout(this.playTrajectory);\n      } else {\n        show();\n      }\n    } } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/index/index.vue?vue&type=script&lang=js&?36e4");
+eval("/* WEBPACK VAR INJECTION */(function(uni) {Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _amapWx = _interopRequireDefault(__webpack_require__(/*! ../../components/amap-wx.js */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\amap-wx.js\"));\nvar _vue = _interopRequireDefault(__webpack_require__(/*! vue */ \"./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mpvue/index.js\"));\nvar _uniDrawer = _interopRequireDefault(__webpack_require__(/*! ../../components/uni-drawer.vue */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue\"));\n\nvar _vueAmap = _interopRequireDefault(__webpack_require__(/*! vue-amap */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\vue-amap\\\\dist\\\\index.js\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  data: function data() {\n    return {\n      showRigth: false,\n      showLeft: false,\n      terminalID: 1,\n      destinationPoint: [],\n      pointsIndex: 0,\n      markerIndex: 0,\n      playTrajectory: '',\n      positionPoint: {\n        longitude: '',\n        latitude: '' },\n\n      myMapContext: '',\n      scale: 10,\n      title: 'map',\n      latitude: '',\n      longitude: '',\n      locationName: '',\n      sWidth: '',\n      sHeight: '',\n      traceFlag: false,\n      traceData: [[119.478935, 30.997761], [116.578939, 31.997825], [116.678912, 32.998549], [116.778912, 33.998549], [116.878998, 34.998555],\n      [116.978998, 35.998555], [117.479282, 36.99856], [117.579658, 37.998528], [117.680151, 38.998453], [116.480784, 39.998302],\n      [116.480784, 39.998302], [116.481149, 39.998184], [116.481573, 39.997997], [116.481863, 39.997846], [116.482072, 39.997718],\n      [116.482362, 39.997718], [116.483633, 39.998935], [116.48367, 39.998968], [116.484648, 39.999861]],\n\n      // [ 119.699559,31.780254],[113.699559,34.780254]\n      markers: [{\n        //title:'我在哪，我在哪',\n        id: 0,\n        latitude: '',\n        longitude: '',\n        width: 20,\n        height: 20, //APP不支持宽高\n        iconPath: '../../static/position64.png',\n        label: {\n          color: '#F76350',\n          bgColor: '#fff',\n          padding: 5,\n          borderRadius: 4 },\n\n        callout: {\n          content: '',\n          color: '#F76350',\n          fontSize: 12 } },\n\n\n      {\n        id: 1,\n        latitude: '',\n        longitude: '',\n        iconPath: '../../static/qq.png',\n        label: {\n          color: '#F76350',\n          bgColor: '#fff',\n          padding: 5,\n          borderRadius: 4 },\n\n        callout: {\n          content: '',\n          color: '#F76350',\n          fontSize: 12 } }],\n\n\n\n      controls: [{\n        id: 0,\n        position: {\n          left: 3,\n          top: 460,\n          width: 35,\n          height: 35 },\n\n        iconPath: '../../static/nowposition.png',\n        clickable: true },\n\n      /* \t\t\t\t{\n                           \t\t\t\t\tid:1,\n                           \t\t\t\t\tposition:{\n                           \t\t\t\t\t\tleft:6,\n                           \t\t\t\t\t\ttop:450,\n                           \t\t\t\t\t\twidth:35,\n                           \t\t\t\t\t\theight:35,\n                           \t\t\t\t\t},\n                           \t\t\t\t\ticonPath:'../../static/zoom_in.png',\t\n                           \t\t\t\t\tclickable:true\t\t\t\t\n                           \t\t\t\t}, */\n      {\n        id: 2,\n        position: {\n          left: 6,\n          top: 495,\n          width: 35,\n          height: 35 },\n\n        iconPath: '../../static/zoom_out.png',\n        clickable: true },\n\n      {\n        id: 3,\n        position: {\n          left: 300,\n          top: 480,\n          width: 50,\n          height: 50 },\n\n        iconPath: '../../static/menu.png',\n        clickable: true }],\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n      polyline: [\n      {\n        'points': [],\n        color: '#00BFFF',\n        width: 5 }] };\n\n\n\n  },\n  onReady: function onReady() {\n    var _this = this;\n    this.mapContext = uni.createMapContext(\"myMap\");\n    this.mapContext.getScale({\n      success: function success(res) {\n        _this.scale = res.scale;\n      } });\n\n    uni.getLocation({\n      type: 'gcj02',\n      success: function success(res) {\n        _this.longitude = res.longitude;\n        _this.latitude = res.latitude;\n        _this.markers[0].longitude = res.longitude;\n        _this.markers[0].latitude = res.latitude;\n        _this.markers[0].width = 30;\n        _this.markers[0].height = 30;\n        _this.getLocationName(res.longitude, res.latitude, _this);\n      } });\n\n  },\n  onLoad: function onLoad() {\n    var that = this;\n    this.getLocationName(null, null, this);\n  },\n  methods: {\n    controlTap: function controlTap(e) {\n      var that = this;\n      //定位\n      if (e.mp.controlId == 0) {\n        var _this = this;\n        uni.getLocation({\n          success: function success(res) {\n            _this.mapContext = uni.createMapContext('myMap');\n            _this.longitude = res.longitude;\n            _this.latitude = res.latitude;\n            _this.mapContext.moveToLocation();\n            _this.$data.scale = 13;\n            _this.positionPoint = res.longitude;\n            _this.positionPoint = res.latitude;\n            _this.mapContext.translateMarker({\n              markerId: 0,\n              destination: _this.positionPoint,\n              autoRotate: false,\n              rotate: 0,\n              duration: 5000,\n              animationEnd: function animationEnd() {\n                uni.showToast({\n                  title: \"End ReLoacte\",\n                  duration: 3000 });\n\n              } });\n\n            var toastStr = _this.$data.locationName;\n            _this.getLocationName(res.longitude, res.latitude, _this);\n          } });\n\n      }\n      //放大\n      // \t\t\t\tif(e.mp.controlId==1){\n      // \t\t\t\t\t this.$data.scale=++this.scale;\n      // \t\t\t\t}\n      //缩小\n      if (e.mp.controlId == 2) {\n        this.$data.scale = --this.scale;\n      }\n      //底部弹框\n      if (e.mp.controlId == 3) {\n        uni.showActionSheet({\n          itemList: ['echarts', 'vedio', 'scroll', '轨迹回放', 'H5+AppMap'],\n          success: function success(res) {\n            if (res.tapIndex == 0) {\n              uni.navigateTo({\n                url: '../npmTest/index1' });\n\n            }\n            if (res.tapIndex == 1) {\n              uni.navigateTo({\n                url: '../video/video' });\n\n            }\n            if (res.tapIndex == 2) {\n              uni.navigateTo({\n                url: '../scroll-view/scroll-view' });\n\n            }\n            //轨迹回放\n            if (res.tapIndex == 3) {\n              that.traceFlag = true;\n\n              that.mapContext = uni.createMapContext('maMap');\n              for (var i = 0; i < that.traceData.length; i++) {\n                var tempObj = {};\n                tempObj.longitude = that.traceData[i][0];\n                tempObj.latitude = that.traceData[i][1];\n                that.polyline[0].points.push(tempObj);\n                that.destinationPoint.push({ longitude: that.$data.traceData[i][0], latitude: that.$data.traceData[i][1] });\n                //为了触发页面页面数据更新需要触发setter\n                _vue.default.set(that.polyline[0].points[i], 'longitude', that.traceData[i][0]);\n                _vue.default.set(that.polyline[0].points[i], 'latitude', that.traceData[i][1]);\n              }\n              var qidianMarker = {\n                id: 2,\n                latitude: '',\n                longitude: '',\n                iconPath: '../../static/qidian.png' };\n\n              var zhongdianMarker = {\n                id: 3,\n                latitude: '',\n                longitude: '',\n                iconPath: '../../static/zhongdian.png' };\n\n              that.markers.push(qidianMarker);\n              that.markers.push(zhongdianMarker);\n              that.markers[2].longitude = that.traceData[0][0];\n              that.markers[2].latitude = that.traceData[0][1];\n              that.markers[3].longitude = that.traceData[that.traceData.length - 1][0];\n              that.markers[3].latitude = that.traceData[that.traceData.length - 1][1];\n\n              uni.navigateTo({\n                url: '../trackmap/webmap' });\n\n\n            }\n            if (res.tapIndex == 4) {\n              uni.navigateTo({\n                url: '../H5Map/h5map' });\n\n            }\n          },\n          fail: function fail(res) {\n            console.log(res.errMsg);\n          } });\n\n      }\n      //定位打点\n      if (e.mp.controlId == 4) {\n        var _that = this;\n        uni.getLocation({\n          success: function success(res) {\n            _that.$data.traceData.push({\n              traceLon: res.longitude,\n              traceLat: res.latitude });\n\n          } });\n\n      }\n    },\n    getLocationName: function getLocationName(longitude, latitude, _this) {\n      var pages = getCurrentPages();\n      var page = pages[pages.length - 1];\n\n      var ptObj = new plus.maps.Point(longitude, latitude);\n      var currentWebview = page.$getAppWebview();\n      plus.maps.Map.reverseGeocode(ptObj, {}, function (event) {\n        var address = event.address; // 转换后的地理位置\n        var point = event.coord; // 转换后的坐标信息\n        var coordType = event.coordType; // 转换后的坐标系类型\n        console.log(\"Address:\" + address);\n        _this.$data.markers[0].callout.content = address;\n      }, function (e) {\n        console.log(\"Failed:\" + JSON.stringify(e));\n      });\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    },\n    endAnimation: function endAnimation() {\n      this.traceFlag = false;\n      this.polyline = null; //置空轨迹线坐标点，会同步删除轨迹线\n      this.markers[2] = null;\n      this.markers[3] = null;\n    },\n    /* timeOutFun:function(){\n       \tthis.destinationPoint.push({longtitude:this.traceData[i][0],latitude:this.traceData[i][1]});\n       \tVue.set(this.destinationPoint[i],'longtitude',this.traceData[i][0]);\n       \tVue.set(this.destinationPoint[i],'latitude',this.traceData[i][1]);\n       \tmapContext.translateMarker({\n       \tmarkerId:0,\n       \tdestination:this.destinationPoint[i],\n       \tautoRotate:false,\n       \trotate:1,\n       \tduration:3000,\n       \tanimationEnd:function(){\n       \t\tconsole.log(\"移动移动结束\");\n       \t\tif(this.$data.pointsIndex<18){\n       \t\t\tconsole.log(\"移动移动结束.....\");\n       \t\t\t// startAnimation(mapContext);\n       \t\t}\n       \t\tthis.$data.pointsIndex++;\n       \t\tconsole.log(this.$data.destinationPoint);\n       \t\t\n       \t},\n       \tfail:function(e){\n       \t\tconsole.log(\"来了老弟\");\n       \t\tconsole.log(e);\n       \t\t}\n       \t});\n       }, */\n    startAnimation: function startAnimation() {var _this2 = this;\n      /* console.log(mapContext);\n                                                                  for (var i=0;i<this.traceData.length;i++) {\n                                                                  \tconsole.log(i);\n                                                                  \tthis.destinationPoint.push({longtitude:this.traceData[i][0],latitude:this.traceData[i][1]});\n                                                                  \tVue.set(this.destinationPoint[i],'longtitude',this.traceData[i][0]);\n                                                                  \tVue.set(this.destinationPoint[i],'latitude',this.traceData[i][1]);\n                                                                  \tconsole.log(this.destinationPoint[i]);\t\t\t\t\t\n                                                                  \tmapContext.translateMarker({\n                                                                  \tmarkerId:1,\n                                                                  \tdestination:this.destinationPoint[i],\n                                                                  \tautoRotate:false,\n                                                                  \trotate:0,\n                                                                  \tduration:5000,\n                                                                  \tanimationEnd:function(){\t\t\t\t\t\t\n                                                                  \t\tconsole.log(\"移动移动结束\");\n                                                                  \t},\n                                                                  \tfail:function(e){\n                                                                  \t\t\t\tconsole.log(\"来了老弟\");\n                                                                  \t\t\t\tconsole.log(e);\n                                                                  \t\t}\n                                                                  \t});\n                                                                  } */\n\n      var show = function show() {\n        _this2.playTrajectory = setTimeout(function () {\n          // console.log(this.polyline[0].points[this.markerIndex].longitude,this.polyline[0].points[this.markerIndex].latitude)\n          // this.setCenterPoints(this.polyline[0].points[this.markerIndex].longitude,this.polyline[0].points[this.markerIndex].latitude)\n          _this2.markers[2].latitude = _this2.polyline[0].points[_this2.markerIndex].latitude;\n          _this2.markers[2].longitude = _this2.polyline[0].points[_this2.markerIndex].longitude;\n          _this2.markerIndex++;\n          if (_this2.markerIndex < _this2.polyline[0].points.length) {\n            show();\n          } else {\n            // this.changeIcon=playIcon;\n            clearTimeout(_this2.playTrajectory);\n            _this2.markerIndex = 0;\n            _this2.isPlayNow = false;\n          }\n        }, 200);\n      };\n      if (this.isPlayNow) {\n        clearTimeout(this.playTrajectory);\n      } else {\n        show();\n      }\n      // this.changeIcon==pauseIcon?this.changeIcon=playIcon:this.changeIcon=pauseIcon;\n      // this.isPlayNow=!this.isPlayNow;\n    },\n    continueAnimation: function continueAnimation() {var _this3 = this;\n      var show = function show() {\n        _this3.myMapContext = uni.createMapContext('maMap');\n        _this3.playTrajectory = setTimeout(function () {\n          console.log(_this3.markerIndex);\n          _this3.destinationPoint.latitude = _this3.polyline[0].points[_this3.markerIndex].latitude;\n          _this3.destinationPoint.longitude = _this3.polyline[0].points[_this3.markerIndex].longitude;\n          _this3.markerIndex++;\n          _this3.myMapContext.translateMarker({\n            markerId: 1,\n            destination: _this3.destinationPoint,\n            autoRotate: true,\n            rotate: 1,\n            duration: 2000,\n            animationEnd: function animationEnd() {\n              console.log(\"移动移动结束\");\n            } });\n\n          if (_this3.markerIndex < _this3.polyline[0].points.length) {\n            show();\n          } else {\n            // this.changeIcon=playIcon;\n            clearTimeout(_this3.playTrajectory);\n            _this3.markerIndex = 0;\n            // this.isPlayNow=false;\n          }\n        }, 2000);\n      };\n      if (this.isPlayNow) {\n        clearTimeout(this.playTrajectory);\n      } else {\n        show();\n      }\n    } },\n\n  components: { uniDrawer: _uniDrawer.default } };exports.default = _default;\n/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/uni-app-plus/dist/index.js */ \"./node_modules/@dcloudio/vue-cli-plugin-hbuilderx/packages/uni-app-plus/dist/index.js\")[\"default\"]))\n\n//# sourceURL=uni-app:///pages/index/index.vue?vue&type=script&lang=js&?36e4");
 
 /***/ }),
 
@@ -1806,7 +2106,7 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=E:/uni-app/uni-ap
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", [\n    _c(\"view\", { staticClass: \"uni-common-mt\" }, [\n      _c(\n        \"view\",\n        [\n          _c(\n            \"map\",\n            {\n              staticStyle: { width: \"sWidth\", height: \"sHeight\" },\n              attrs: {\n                id: \"myMap\",\n                latitude: _vm.latitude,\n                longitude: _vm.longitude,\n                scale: _vm.scale,\n                controls: _vm.controls,\n                markers: _vm.markers,\n                polyline: _vm.polyline,\n                \"show-location\": \"\",\n                eventid: \"5ae1b94f-1\"\n              },\n              on: { controltap: _vm.controlTap }\n            },\n            [\n              _vm.traceFlag\n                ? _c(\n                    \"cover-view\",\n                    {\n                      staticClass: \"cover-View\",\n                      staticStyle: { \"margin-right\": \"5rpx\" },\n                      attrs: { eventid: \"5ae1b94f-0\", mpcomid: \"5ae1b94f-0\" },\n                      on: {\n                        click: function($event) {\n                          _vm.endAnimation()\n                        }\n                      }\n                    },\n                    [_vm._v(\"清除轨迹\")]\n                  )\n                : _vm._e()\n            ],\n            1\n          )\n        ],\n        1\n      )\n    ])\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/index/index.vue?vue&type=template&id=bb07ef48&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", [\n    _c(\"view\", { staticClass: \"uni-common-mt\" }, [\n      _c(\n        \"view\",\n        [\n          _c(\n            \"map\",\n            {\n              staticStyle: { width: \"sWidth\", height: \"sHeight\" },\n              attrs: {\n                id: \"myMap\",\n                latitude: _vm.latitude,\n                longitude: _vm.longitude,\n                scale: _vm.scale,\n                controls: _vm.controls,\n                markers: _vm.markers,\n                polyline: _vm.polyline,\n                \"show-location\": \"\",\n                eventid: \"5ae1b94f-1\"\n              },\n              on: { controltap: _vm.controlTap }\n            },\n            [\n              _vm.traceFlag\n                ? _c(\n                    \"cover-view\",\n                    {\n                      staticClass: \"cover-View\",\n                      staticStyle: { \"margin-right\": \"5rpx\" },\n                      attrs: { eventid: \"5ae1b94f-0\", mpcomid: \"5ae1b94f-0\" },\n                      on: {\n                        click: function($event) {\n                          _vm.endAnimation()\n                        }\n                      }\n                    },\n                    [_vm._v(\"清除轨迹\")]\n                  )\n                : _vm._e()\n            ],\n            1\n          )\n        ],\n        1\n      )\n    ]),\n    _c(\n      \"view\",\n      [\n        _c(\n          \"uni-drawer\",\n          { attrs: { visible: true, mode: \"right\", mpcomid: \"5ae1b94f-1\" } },\n          [\n            _c(\"view\", { staticStyle: { padding: \"30rpx\" } }, [\n              _c(\"view\", { staticClass: \"uni-title\" }, [_vm._v(\"抽屉式导航\")]),\n              _c(\"view\", { staticClass: \"uni-list uni-common-mt\" }, [\n                _c(\n                  \"view\",\n                  {\n                    staticClass: \"uni-list-cell\",\n                    attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                  },\n                  [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell-navigate uni-navigate-right\"\n                      },\n                      [_vm._v(\"Item1\")]\n                    )\n                  ]\n                ),\n                _c(\n                  \"view\",\n                  {\n                    staticClass: \"uni-list-cell uni-list-cell-last\",\n                    attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                  },\n                  [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell-navigate uni-navigate-right\"\n                      },\n                      [_vm._v(\"Item2\")]\n                    )\n                  ]\n                )\n              ])\n            ])\n          ]\n        )\n      ],\n      1\n    )\n  ])\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/index/index.vue?vue&type=template&id=bb07ef48&");
 
 /***/ }),
 
@@ -2241,7 +2541,7 @@ define('pages/trackmap/webmap.js',function(require, module, exports, window, doc
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    var currentDate = this.getDate({\n      format: true });\n\n    return {\n      isShow: false,\n      title: 'picker',\n      array: ['13222', '4566', '78999', '4564215'],\n      index: 0,\n      multiIndex: [0, 0, 0],\n      date: currentDate,\n      time: '12:01' };\n\n  },\n  computed: {\n    startDate: function startDate() {\n      return this.getDate('start');\n    },\n    endDate: function endDate() {\n      return this.getDate('end');\n    } },\n\n  onReady: function onReady() {\n\n  },\n  methods: {\n    bindPickerChange: function bindPickerChange(e) {\n      console.log('picker发送选择改变，携带值为：' + e.target.value);\n      this.index = e.target.value;\n    },\n\n    bindDateChange: function bindDateChange(e) {\n      this.date = e.target.value;\n    },\n    bindTimeChange: function bindTimeChange(e) {\n      this.time = e.target.value;\n    },\n    getDate: function getDate(type) {\n      var date = new Date();\n\n      var year = date.getFullYear();\n      var month = date.getMonth() + 1;\n      var day = date.getDate();\n\n      if (type === 'start') {\n        year = year - 60;\n      } else if (type === 'end') {\n        year = year + 2;\n      }\n      month = month > 9 ? month : '0' + month;;\n      day = day > 9 ? day : '0' + day;\n\n      return \"\".concat(year, \"-\").concat(month, \"-\").concat(day);\n    },\n    setConfirm: function setConfirm() {\n      isShow = true;\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/trackmap/webmap.vue?vue&type=script&lang=js&?11b0");
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;var _default =\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n{\n  data: function data() {\n    var currentDate = this.getDate({\n      format: true });\n\n    return {\n      isShow: false,\n      title: 'picker',\n      array: ['13222', '4566', '78999', '4564215'],\n      index: 0,\n      multiIndex: [0, 0, 0],\n      date: currentDate,\n      time: '12:01' };\n\n  },\n  computed: {\n    startDate: function startDate() {\n      return this.getDate('start');\n    },\n    endDate: function endDate() {\n      return this.getDate('end');\n    } },\n\n  onReady: function onReady() {\n\n  },\n  methods: {\n    bindPickerChange: function bindPickerChange(e) {\n      console.log('picker发送选择改变，携带值为：' + e.target.value);\n      this.index = e.target.value;\n    },\n\n    bindDateChange: function bindDateChange(e) {\n      this.date = e.target.value;\n    },\n    bindTimeChange: function bindTimeChange(e) {\n      this.time = e.target.value;\n    },\n    getDate: function getDate(type) {\n      var date = new Date();\n\n      var year = date.getFullYear();\n      var month = date.getMonth() + 1;\n      var day = date.getDate();\n\n      if (type === 'start') {\n        year = year - 60;\n      } else if (type === 'end') {\n        year = year + 2;\n      }\n      month = month > 9 ? month : '0' + month;;\n      day = day > 9 ? day : '0' + day;\n\n      return \"\".concat(year, \"-\").concat(month, \"-\").concat(day);\n    },\n    setConfirm: function setConfirm() {\n      this.isShow = true;\n      console.log(this.isShow);\n    } } };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/trackmap/webmap.vue?vue&type=script&lang=js&?11b0");
 
 /***/ }),
 
@@ -2253,7 +2553,7 @@ eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.de
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    [\n      _c(\"page-head\", { attrs: { title: _vm.title, mpcomid: \"9ead1fc0-0\" } }),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"车辆终端:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    value: _vm.index,\n                    range: _vm.array,\n                    eventid: \"9ead1fc0-0\"\n                  },\n                  on: { change: _vm.bindPickerChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.array[_vm.index]))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"开始时间:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    mode: \"date\",\n                    value: _vm.date,\n                    start: _vm.startDate,\n                    end: _vm.endDate,\n                    eventid: \"9ead1fc0-1\"\n                  },\n                  on: { change: _vm.bindDateChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.date))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"结束时间:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    mode: \"date\",\n                    value: _vm.date,\n                    start: _vm.startDate,\n                    end: _vm.endDate,\n                    eventid: \"9ead1fc0-2\"\n                  },\n                  on: { change: _vm.bindDateChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.date))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\n        \"view\",\n        { staticClass: \"button-sp-area\" },\n        [\n          _c(\n            \"button\",\n            {\n              attrs: { type: \"primary\", plain: \"true\", eventid: \"9ead1fc0-3\" },\n              on: { click: _vm.setConfirm }\n            },\n            [_vm._v(\"确定\")]\n          )\n        ],\n        1\n      ),\n      false\n        ? undefined\n        : _vm._e()\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/trackmap/webmap.vue?vue&type=template&id=3cde27a6&");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\n    \"view\",\n    [\n      _c(\"page-head\", { attrs: { title: _vm.title, mpcomid: \"9ead1fc0-0\" } }),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"车辆终端:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    value: _vm.index,\n                    range: _vm.array,\n                    eventid: \"9ead1fc0-0\"\n                  },\n                  on: { change: _vm.bindPickerChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.array[_vm.index]))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"开始时间:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    mode: \"date\",\n                    value: _vm.date,\n                    start: _vm.startDate,\n                    end: _vm.endDate,\n                    eventid: \"9ead1fc0-1\"\n                  },\n                  on: { change: _vm.bindDateChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.date))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\"view\", { staticClass: \"uni-list\" }, [\n        _c(\"view\", { staticClass: \"uni-list-cell\" }, [\n          _c(\"view\", { staticClass: \"uni-list-cell-left\" }, [\n            _vm._v(\"结束时间:\")\n          ]),\n          _c(\n            \"view\",\n            { staticClass: \"uni-list-cell-db\" },\n            [\n              _c(\n                \"picker\",\n                {\n                  attrs: {\n                    mode: \"date\",\n                    value: _vm.date,\n                    start: _vm.startDate,\n                    end: _vm.endDate,\n                    eventid: \"9ead1fc0-2\"\n                  },\n                  on: { change: _vm.bindDateChange }\n                },\n                [\n                  _c(\"view\", { staticClass: \"uni-input\" }, [\n                    _vm._v(_vm._s(_vm.date))\n                  ])\n                ]\n              )\n            ],\n            1\n          )\n        ])\n      ]),\n      _c(\n        \"view\",\n        { staticClass: \"button-sp-area\" },\n        [\n          _c(\n            \"button\",\n            {\n              attrs: { type: \"primary\", plain: \"true\", eventid: \"9ead1fc0-3\" },\n              on: { click: _vm.setConfirm }\n            },\n            [_vm._v(\"确定\")]\n          )\n        ],\n        1\n      ),\n      _vm.isShow\n        ? _c(\n            \"view\",\n            [\n              _c(\"web-view\", {\n                attrs: {\n                  src: \"../../hybrid/html/local.html\",\n                  mpcomid: \"9ead1fc0-1\"\n                }\n              })\n            ],\n            1\n          )\n        : _vm._e()\n    ],\n    1\n  )\n}\nvar staticRenderFns = []\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/trackmap/webmap.vue?vue&type=template&id=3cde27a6&");
 
 /***/ }),
 
@@ -2308,4 +2608,107 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_P
 },[["E:\\uni-app\\uni-app.git\\ShowMap\\main.js?{\"page\":\"pages%2Ftrackmap%2Fwebmap\"}","common/runtime","common/vendor"]]]);
 });
 require('pages/trackmap/webmap.js');
+__wxRoute = 'pages/H5Map/h5map';__wxRouteBegin = true;__wxAppCurrentFile__ = 'pages/H5Map/h5map.js';
+
+define('pages/H5Map/h5map.js',function(require, module, exports, window, document, frames, self, location, navigator, localStorage, history, Caches, screen, alert, confirm, prompt, fetch, XMLHttpRequest, WebSocket, webkit, WeixinJSCore, Reporter, print, WeixinJSBridge){
+(global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/H5Map/h5map"],{
+
+/***/ "./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=script&lang=js&":
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=script&lang=js& ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("Object.defineProperty(exports, \"__esModule\", { value: true });exports.default = void 0;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar _uniDrawer = _interopRequireDefault(__webpack_require__(/*! ../../components/uni-drawer.vue */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\components\\\\uni-drawer.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var _default =\n{\n  data: function data() {\n    return {\n      showRigth: false,\n      showLeft: false };\n\n  },\n  onReady: function onReady() {\n    var pages = getCurrentPages();\n    var page = pages[pages.length - 1];\n\n    var currentWebview = page.$getAppWebview();\n    var map = new plus.maps.Map('map');\n    map.showUserLocation(true);\n    map.showZoomControls(true);\n    // map.setTraffic(true);\n    console.log(JSON.stringify(currentWebview));\n    map.setStyles({\n      top: '200px', // 调整地图的位置,\n      width: '50%' });\n\n    // currentWebview.style.width = \"50%\";\n    map.resize();\n    console.log(\"2\");\n\n    currentWebview.append(map);\n  },\n  onNavigationBarButtonTap: function onNavigationBarButtonTap(e) {\n    console.log(JSON.stringify(e));\n  },\n  methods: {\n    resizeMap: function resizeMap(map) {\n      map.style.width = \"50%\";\n      map.resize();\n    } },\n\n  components: { uniDrawer: _uniDrawer.default } };exports.default = _default;\n\n//# sourceURL=uni-app:///pages/H5Map/h5map.vue?vue&type=script&lang=js&?b401");
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=style&index=0&lang=css&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=style&index=0&lang=css& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=template&id=a2e78ad4&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=template&id=a2e78ad4& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function() {\n  var _vm = this\n  var _h = _vm.$createElement\n  var _c = _vm._self._c || _h\n  return _c(\"view\", [\n    _vm._m(0),\n    _c(\n      \"view\",\n      { staticStyle: { width: \"50%\" } },\n      [\n        _c(\n          \"uni-drawer\",\n          { attrs: { visible: true, mode: \"right\", mpcomid: \"2c081889-0\" } },\n          [\n            _c(\"view\", { staticStyle: { padding: \"30rpx\" } }, [\n              _c(\"view\", { staticClass: \"uni-title\" }, [_vm._v(\"抽屉式导航\")]),\n              _c(\"view\", { staticClass: \"uni-list uni-common-mt\" }, [\n                _c(\n                  \"view\",\n                  {\n                    staticClass: \"uni-list-cell\",\n                    attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                  },\n                  [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell-navigate uni-navigate-right\"\n                      },\n                      [_vm._v(\"Item1\")]\n                    )\n                  ]\n                ),\n                _c(\n                  \"view\",\n                  {\n                    staticClass: \"uni-list-cell uni-list-cell-last\",\n                    attrs: { \"hover-class\": \"uni-list-cell-hover\" }\n                  },\n                  [\n                    _c(\n                      \"view\",\n                      {\n                        staticClass: \"uni-list-cell-navigate uni-navigate-right\"\n                      },\n                      [_vm._v(\"Item2\")]\n                    )\n                  ]\n                )\n              ])\n            ])\n          ]\n        )\n      ],\n      1\n    )\n  ])\n}\nvar staticRenderFns = [\n  function() {\n    var _vm = this\n    var _h = _vm.$createElement\n    var _c = _vm._self._c || _h\n    return _c(\n      \"view\",\n      { staticStyle: { border: \"2px solid #007AFF\", \"margin-top\": \"500rpx\" } },\n      [_c(\"view\", { attrs: { id: \"map\" } })]\n    )\n  }\n]\nrender._withStripped = true\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=template&id=a2e78ad4&");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\main.js?{\"page\":\"pages%2FH5Map%2Fh5map\"}":
+/*!*******************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/main.js?{"page":"pages%2FH5Map%2Fh5map"} ***!
+  \*******************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__(/*! uni-pages */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages.json\");\nvar _mpvuePageFactory = _interopRequireDefault(__webpack_require__(/*! mpvue-page-factory */ \"./node_modules/@dcloudio/vue-cli-plugin-uni/packages/mpvue-page-factory/index.js\"));\nvar _h5map = _interopRequireDefault(__webpack_require__(/*! ./pages/H5Map/h5map.vue */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue\"));function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}\nPage((0, _mpvuePageFactory.default)(_h5map.default));\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/main.js?%7B%22page%22:%22pages%252FH5Map%252Fh5map%22%7D");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue":
+/*!************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./h5map.vue?vue&type=template&id=a2e78ad4& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=template&id=a2e78ad4&\");\n/* harmony import */ var _h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./h5map.vue?vue&type=script&lang=js& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=script&lang=js&\");\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n/* harmony import */ var _h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./h5map.vue?vue&type=style&index=0&lang=css& */ \"E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* hot reload */\nif (false) { var api; }\ncomponent.options.__file = \"E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue\"\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=script&lang=js&":
+/*!*************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/babel-loader/lib!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--12-1!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--18-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib??vue-loader-options!./h5map.vue?vue&type=script&lang=js& */ \"./node_modules/babel-loader/lib/index.js!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/script.js!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=script&lang=js&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_babel_loader_lib_index_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_12_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_18_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_script_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=uni-app:///pages/H5Map/h5map.vue?vue&type=script&lang=js&?0a72");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=style&index=0&lang=css&":
+/*!*********************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=style&index=0&lang=css& ***!
+  \*********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/mini-css-extract-plugin/dist/loader.js??ref--6-oneOf-1-0!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--6-oneOf-1-1!./node_modules/css-loader??ref--6-oneOf-1-2!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--6-oneOf-1-3!./node_modules/vue-loader/lib??vue-loader-options!./h5map.vue?vue&type=style&index=0&lang=css& */ \"./node_modules/mini-css-extract-plugin/dist/loader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=style&index=0&lang=css&\");\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_mini_css_extract_plugin_dist_loader_js_ref_6_oneOf_1_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_6_oneOf_1_1_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_css_loader_index_js_ref_6_oneOf_1_2_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_stylePostLoader_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_postcss_loader_src_index_js_ref_6_oneOf_1_3_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=style&index=0&lang=css&");
+
+/***/ }),
+
+/***/ "E:\\uni-app\\uni-app.git\\ShowMap\\pages\\H5Map\\h5map.vue?vue&type=template&id=a2e78ad4&":
+/*!*******************************************************************************************!*\
+  !*** E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=template&id=a2e78ad4& ***!
+  \*******************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader??ref--17-0!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib??vue-loader-options!./h5map.vue?vue&type=template&id=a2e78ad4& */ \"./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/@dcloudio/vue-cli-plugin-uni/packages/webpack-preprocess-loader/index.js?!./node_modules/@dcloudio/webpack-uni-mp-loader/lib/template.js!./node_modules/vue-loader/lib/index.js?!E:\\\\uni-app\\\\uni-app.git\\\\ShowMap\\\\pages\\\\H5Map\\\\h5map.vue?vue&type=template&id=a2e78ad4&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_vue_cli_plugin_uni_packages_webpack_preprocess_loader_index_js_ref_17_0_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_dcloudio_webpack_uni_mp_loader_lib_template_js_D_Program_Files_HBuilderX_plugins_uniapp_cli_node_modules_vue_loader_lib_index_js_vue_loader_options_h5map_vue_vue_type_template_id_a2e78ad4___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=E:/uni-app/uni-app.git/ShowMap/pages/H5Map/h5map.vue?vue&type=template&id=a2e78ad4&");
+
+/***/ })
+
+},[["E:\\uni-app\\uni-app.git\\ShowMap\\main.js?{\"page\":\"pages%2FH5Map%2Fh5map\"}","common/runtime","common/vendor"]]]);
+});
+require('pages/H5Map/h5map.js');
 

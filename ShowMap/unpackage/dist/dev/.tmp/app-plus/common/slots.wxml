@@ -1,1 +1,6 @@
+<import src="/components/uni-drawer.vue.wxml" />
+
+<template name="5ae1b94f-default-5ae1b94f-1"><view style="padding:30rpx;" class="_view 5ae1b94f"><view class="_view 5ae1b94f uni-title">抽屉式导航</view><view class="_view 5ae1b94f uni-list uni-common-mt"><view class="_view 5ae1b94f uni-list-cell" hover-class="uni-list-cell-hover"><view class="_view 5ae1b94f uni-list-cell-navigate uni-navigate-right">Item1</view></view><view class="_view 5ae1b94f uni-list-cell uni-list-cell-last" hover-class="uni-list-cell-hover"><view class="_view 5ae1b94f uni-list-cell-navigate uni-navigate-right">Item2</view></view></view></view></template>
+
+<template name="2c081889-default-2c081889-0"><view style="padding:30rpx;" class="_view 2c081889"><view class="_view 2c081889 uni-title">抽屉式导航</view><view class="_view 2c081889 uni-list uni-common-mt"><view class="_view 2c081889 uni-list-cell" hover-class="uni-list-cell-hover"><view class="_view 2c081889 uni-list-cell-navigate uni-navigate-right">Item1</view></view><view class="_view 2c081889 uni-list-cell uni-list-cell-last" hover-class="uni-list-cell-hover"><view class="_view 2c081889 uni-list-cell-navigate uni-navigate-right">Item2</view></view></view></view></template>
 

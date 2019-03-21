@@ -3,7 +3,27 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "uni-app",
+				"navigationBarBackgroundColor":"#1E90FF"	,
+				"app-plus":{
+				"titleNView": {
+				       "buttons": [
+						/* {
+				               "text": "\ue63f",
+				               "fontSrc": "/static/iconfont.ttf",
+				               "fontSize": "22px",
+				               "float": "left"
+				           }, */
+				           {
+				               "text": "\ue63f",
+				               "fontSrc": "/static/iconfont.ttf",
+				               "fontSize": "22px",
+							 "redDot" : true  
+				           }
+				       ]
+					 // "type": "transparent"  
+				   }
+				}
 			}
 		},{
 			"path": "pages/video/video",
@@ -25,13 +45,38 @@
 			"style": {
 				"navigationBarTitleText": "WebTrackMap"
 			}
+		},{
+			"path":"pages/H5Map/h5map",
+			"style":{
+				"navigationBarTitleText":"H5+Map",
+				"navigationBarBackgroundColor":"#1E90FF",
+				"app-plus":{
+					"titleNView": {
+				        "buttons": [
+							/* {
+				                "text": "\ue63f",
+				                "fontSrc": "/static/iconfont.ttf",
+				                "fontSize": "22px",
+				                "float": "left"
+				            }, */
+				            {
+				                "text": "\ue63f",
+				                "fontSrc": "/static/iconfont.ttf",
+				                "fontSize": "22px",
+								 "redDot" : true  
+				            }
+				        ]
+						 // "type": "transparent"  
+				    }
+				}
+			}
 		}
-
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "Uni-Map",
-		"navigationBarBackgroundColor": "skyblue",
-		"backgroundColor": "skyblue"
+		"navigationStyle": "default" 
+// 		"navigationBarTextStyle": "black",
+// 		"navigationBarTitleText": "Uni-Map",
+		// "navigationBarBackgroundColor": "#1E90FF"
+// 		"backgroundColor": "skyblue"
 	}
 }
