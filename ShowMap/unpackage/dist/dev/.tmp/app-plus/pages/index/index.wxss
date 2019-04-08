@@ -41,8 +41,8 @@ cover-image {
 	    right: 1%;
 	    margin-top: -50rpx;
 }
-._map {
-	   position:relative;
+map {
+		position:relative;
         width: 100%;
         height: 1280rpx;
 }

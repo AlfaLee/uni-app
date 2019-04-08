@@ -76,7 +76,8 @@
     },
     "allowsInlineMediaPlayback": true,
     "uni-app": {
-      "compilerVersion": "1.7.0"
+      "compilerVersion": "1.8.2",
+      "control": "webview"
     }
   }
 }

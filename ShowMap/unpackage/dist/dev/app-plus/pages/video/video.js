@@ -1,13 +1,2 @@
-
-      !(function(){
-        var uniAppViewReadyCallback = function(){
-          setCssToHead([".",[1],"_video { width: ",[0,690],"; }\n",],undefined,{path:"./pages/video/video.wxss"})();
+setCssToHead(["wx-video { width: ",[0,690],"; }\n",],undefined,{path:"./pages/video/video.wxss"})();
 document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/video/video.wxml') } }));
-        }
-        if(window.__uniAppViewReady__){
-          uniAppViewReadyCallback()
-        }else{
-          document.addEventListener('uniAppViewReady',uniAppViewReadyCallback)
-        }
-      })();
-      

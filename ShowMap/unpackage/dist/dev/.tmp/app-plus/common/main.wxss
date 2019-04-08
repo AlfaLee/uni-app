@@ -12,11 +12,11 @@ view{
 	line-height:1.8;
 }
 
-._progress, checkbox-group{
+progress, checkbox-group{
 	width: 100%;
 }
 
-._form {
+form {
 	width: 100%;
 }
 
@@ -207,7 +207,7 @@ view{
 	padding:10rpx 0;
 }
 
-.uni-btn-v ._button{margin:20rpx 0;}
+.uni-btn-v button{margin:20rpx 0;}
 
 /* 表单 */
 
@@ -247,7 +247,7 @@ radio-group, checkbox-group{
 	width:100%;
 }
 
-radio-group ._label, checkbox-group ._label{
+radio-group label, checkbox-group label{
 	padding-right:20rpx;
 }
 
@@ -1227,7 +1227,7 @@ radio-group ._label, checkbox-group ._label{
 	background-color: #c8c7cc;
 }
 
-.uni-input-row ._label {
+.uni-input-row label {
 	line-height: 70rpx;
 }
 
@@ -1238,7 +1238,7 @@ radio-group ._label, checkbox-group ._label{
 	background:#FFF;
 }
 
-.uni-textarea ._textarea{
+.uni-textarea textarea{
 	width:96%;
 	padding:18rpx 2%;
 	line-height:1.6;

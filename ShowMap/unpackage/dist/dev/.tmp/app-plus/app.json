@@ -16,5 +16,6 @@
     "alwaysShowBeforeRender": true,
     "autoclose": false
   },
-  "appname": "ShowMap"
+  "appname": "ShowMap",
+  "compilerVersion": "1.8.2"
 }

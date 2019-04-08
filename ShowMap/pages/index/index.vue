@@ -16,25 +16,9 @@
 				<cover-view v-if="traceFlag" class="cover-View" style="margin-right: 5upx;" @click="continueAnimation()">继续动画</cover-view> -->
 				<cover-view v-if="traceFlag" class="cover-View" style="margin-right: 5upx;" @click="endAnimation()">清除轨迹</cover-view>					
                
-                </map>
-				
+                </map>				
             </view>
-        </view>
-		<view>
-			<uni-drawer :visible="true" mode="right">
-				<view style="padding:30upx;">
-					<view class="uni-title">抽屉式导航</view>
-					<view class="uni-list uni-common-mt">
-						<view class="uni-list-cell" hover-class="uni-list-cell-hover">
-						<view class="uni-list-cell-navigate uni-navigate-right">Item1</view>
-					</view>
-					<view class="uni-list-cell uni-list-cell-last" hover-class="uni-list-cell-hover">
-						<view class="uni-list-cell-navigate uni-navigate-right">Item2</view>
-					</view>
-				</view>
-			</view>
-			</uni-drawer>
-		</view>
+        </view>		
     </view>
 </template>
 <script>
@@ -530,7 +514,7 @@
 	    margin-top: -50upx;
 	}
    map {
-	   position:relative;
+		position:relative;
         width: 100%;
         height: 1280upx;
     }
